@@ -1,2 +1,0 @@
-# andrimo
-Andrimo Latest News
