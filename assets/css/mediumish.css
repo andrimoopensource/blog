@@ -442,6 +442,6 @@ ul.tags li a:hover {
 	font-size:12px;
 }
 .comments {
-		width: 70%;
-		margin-left: auto;
+		width: 50%;
+		margin-left: 10px;
 }
