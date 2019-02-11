@@ -3,7 +3,7 @@ layout: post
 title:  "How to Update Play Store Officially – Brief Guide About Play Store Update"
 author: Team Andrimo
 categories: [ Jekyll, tutorial ]
-image: "https://images.unsplash.com/photo-1541544537156-7627a7a4aa1c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a20c472bc23308e390c8ffae3dd90c60&auto=format&fit=crop&w=750&q=80"
+image: assets/images/how-to-update-play-store.jpg
 ---
 Are you looking for how to update the play store? then in this article, I will show you how to update the play store or play store update. So let’s began this brief guide about play store update.
 
