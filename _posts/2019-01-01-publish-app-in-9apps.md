@@ -3,7 +3,7 @@ layout: post
 title:  "How to Publish Android Application in 9apps"
 author: Team Andrimo
 categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+image: assets/images/How-to-Publish-Android-Application-in-9Apps.jpg
 featured: true
 hidden: true
 ---
