@@ -79,16 +79,28 @@ ga('send', 'pageview');
                 <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
                 
+                {% if page.url == "/disclaimer.html" %}
+                <li class="nav-item active">
+                {% else %}
                 <li class="nav-item">
-                <a class="nav-link" href="https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip"><i class="fas fa-download"></i> Download</a>
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/disclaimer">Disclaimer</a>
                 </li>
                 
+               {% if page.url == "/privacy-policy.html" %}
+                <li class="nav-item active">
+                {% else %}
                 <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mediumish-wordpress/"><i class="fab fa-wordpress-simple"></i> WP Version</a>
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/privacy-policy">Privacy Policy</a>
                 </li>
                 
+                {% if page.url == "/write-for-us.html" %}
+                <li class="nav-item active">
+                {% else %}
                 <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mediumish-ghost/"><i class="fab fa-snapchat-ghost"></i> Ghost Version</a>
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/write-for-us">Write For Us</a>
                 </li>
                 
                 {% include search-lunr.html %}
