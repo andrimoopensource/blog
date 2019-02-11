@@ -3,10 +3,7 @@ layout: page
 title: About - Andrimo
 permalink: /about
 comments: false
----
-
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">    
+---  
 
 Andrimo is a Digital learning platform, here you can learn more about the latest technology, gadgets and how to (Related to Operating System) and we provide all the things and News about android, android gadgets etc. This is Absolutely Free For Everyone. Read more at
 
