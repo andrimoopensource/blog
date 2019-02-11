@@ -2,4 +2,5 @@ plugins:
   - jekyll-sitemap
 plugins:
   - jekyll-default-layout
-
+plugins:
+   - jekyll-seo-tag
