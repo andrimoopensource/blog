@@ -10,7 +10,7 @@ Are you looking for the Best Music Making Apps for Android then this article is 
 
 ## Here is Best Music Making Apps for Android:
 
-<a href="https://play.google.com/store/apps/details?id=com.glaucopercopo.app.recordingstudiolite" rel="nofollow" "_blank" > 10. Recording Studio </a> 
+[10. Recording Studio](https://play.google.com/store/apps/details?id=com.glaucopercopo.app.recordingstudiolite)
 
 Recording Studio is one of the best android apps that you can use to edit music or recording easily. The recording studio is the multi-touch audio editor. In the free version, you only manage 2 tracks but in the pro version, you can manage 24 tracks. If free version Grand Piano is available but in the pro version you can manage 8 other virtual instruments (drums, classical guitar, rock organ, pipe organ, bass, strings, harpsichord, electric guitar)
 
