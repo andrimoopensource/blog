@@ -87,8 +87,8 @@ The nanoloop application is developed by Oliver wittchow. The main features of t
 
 Top Features:
 
-suitable for rhythm and melody
-Automatisation of all parameters
+- suitable for rhythm and melody
+- Automatisation of all parameters
 8 channels, each can be synth or sampler
 8 patterns per channel
 Load samples from SD-card
