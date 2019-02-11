@@ -1,0 +1,784 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <!-- Metas -->
+      <meta charset="utf-8">
+      <title>Foxebiz - SHARED ON THEMELOCK.COM - - Multipurpose html template</title>
+      <meta name="description" content="">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <!-- Css -->
+      <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all"/>
+      <link href="css/main.css" rel="stylesheet" type="text/css" media="all"/>
+      <link rel="stylesheet" href="css/bootstrap-dropdownhover.min.css">
+      <link href="css/flexslider.css" rel="stylesheet" type="text/css"  media="all" />
+      <link href="css/magnific-popup.css" rel="stylesheet" type="text/css"  media="all" />
+      <link href="css/fonts.css" rel="stylesheet" type="text/css"  media="all" />
+       <link href="//fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+   </head>
+   <body>
+      <!-- Preloader -->
+      <div class="loader">
+         <!-- Preloader inner -->
+         <div class="loader-inner">
+            <svg width="120" height="220" viewbox="0 0 100 100" class="loading-spinner" version="1.1" xmlns="http://www.w3.org/2000/svg">
+               <circle class="spinner" cx="50" cy="50" r="21" fill="#ffffff" stroke-width="4"/>
+            </svg>
+         </div>
+         <!-- End preloader inner -->
+      </div>
+      <!-- End preloader-->
+      <!--Wrapper-->
+      <div class="wrapper">
+         <div class="modal login fade" id="search" tabindex="-1" role="dialog"  aria-hidden="true">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+               <div class="p-5">
+                     <form class="d-flex">
+                        <div class=" input-group form mr-2">
+                           <div class="input-group-prepend ">
+                              <span class="input-group-text form-icon">
+                              <span class="fa fa-search form-icon-inner"></span>
+                              </span>
+                           </div>
+                           <input class="form-control" name="search" placeholder="Search" type="text">
+                        </div>
+                        <button class="btn btn-primary" type="submit">
+                        Go
+                        </button>
+                     </form>
+                  </div>
+            </div>
+         </div>
+      </div>
+         <!--Header-->
+         <header class="header">
+            <div class="container ">
+               <div class="floating-nav mt-lg-5 ">
+                  <nav class="navbar navbar-expand-lg header-navbar ">
+                     <div class="navbar-brand">
+                        <a class=" navbar-brand navbar-logo" href="index.html">
+                        <img class="mb-0" src="assets/svg/logo.svg" alt="">
+                        </a>
+                     </div>
+                     <button class="navbar-toggler btn-navbar-toggler" type="button" data-toggle="collapse" data-target=".nav-menu" aria-expanded="true" aria-label="Toggle navigation">
+                     <span class="fa fa-bars"></span>
+                     </button>
+                     <div class="nav-menu collapse navbar-collapse navbar-collapse justify-content-end py-0 ">
+                        <ul class=" navbar-nav  header-navbar-nav">
+                           <li><a class=" nav-link" href="index.html">Home</a></li>
+                           <li class="dropdown">
+                              <a href="javascript:;" class="nav-link dropdown-toggle"   data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                              Pages<span class="dropdown-arrow ml-2">
+                              <span class="fa fa-angle-down dropdown-arrow-inner"></span>
+                              </span>
+                              </a>
+                              <ul class="dropdown-menu">
+                                 <li><a class="dropdown-item" href="about.html">About</a></li>
+                                 <li><a class="dropdown-item" href="service.html">Services</a></li>
+                                 <li><a class="dropdown-item" href="comingsoon.html">Comingsoon</a></li>
+                                 <li><a class="dropdown-item" href="404.html">404</a></li>
+                                 <li><a class="dropdown-item" href="hireus.html">Hire us</a></li>
+                                 <li><a class="dropdown-item" href="faq.html">FAQ</a></li>
+                              </ul>
+                           </li>
+                           <li class="dropdown">
+                              <a href="javascript:;" class="nav-link dropdown-toggle"   data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                              Works<span class="dropdown-arrow ml-2">
+                              <span class="fa fa-angle-down dropdown-arrow-inner"></span>
+                              </span>
+                              </a>
+                              <ul class="dropdown-menu">
+                                 <li><a class="dropdown-item" href="portfolio-grid-2.html">Grid works 2</a></li>
+                                 <li><a class="dropdown-item" href="portfolio-grid-3.html">Grid works 3</a></li>
+                                 <li><a class="dropdown-item" href="portfolio-single.html">Single work</a></li>
+                              </ul>
+                           </li>
+                           <li class="dropdown">
+                              <a href="javascript:;" class="nav-link dropdown-toggle"   data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                              Blog<span class="dropdown-arrow ml-2">
+                              <span class="fa fa-angle-down dropdown-arrow-inner"></span>
+                              </span>
+                              </a>
+                              <ul class="dropdown-menu">
+                                 <li><a class="dropdown-item" href="blog-full-width.html">Full Width</a></li>
+                                 <li><a class="dropdown-item" href="blog-right-sidebar.html">Right sidebar</a></li>
+                                 <li><a class="dropdown-item" href="blog-left-sidebar.html">Left sidebar</a></li>
+                                 <li><a class="dropdown-item" href="blog-single.html">Single post</a></li>
+                                 <li><a class="dropdown-item" href="blog-single-left-sidebar.html">Single left sidebar</a></li>
+                                 <li><a class="dropdown-item" href="blog-single-right-sidebar.html">Single right sidebar</a></li>
+                              </ul>
+                           </li>
+                           <li><a class="nav-link" href="contact.html">Contact</a></li>
+                           <li class="btn-nav mr-lg-3"><a class="btn btn-primary btn-sm " href="#login" data-toggle="modal" data-target="#login"><span class="fa fa-user-circle mr-1"></span>Signin</a></li>
+                           <li>
+                              <a class="btn btn-xs btn-icon btn-text-dark pb-3 pb-lg-0 pl-0 pt-0" href="#search" data-toggle="modal" data-target="#search">
+                              <span class="fa fa-search "></span>
+                              </a>
+                           </li>
+                        </ul>
+                     </div>
+                  </nav>
+               </div>
+            </div>
+         </header>
+         <!--End header-->
+         <!--Hero section-->
+         <section class="hero" >
+            <div class="background-img gradient-overlay gradient-overlay-dark">
+               <img src="assets/img/1.jpg" alt="" >
+            </div>
+            <div class="container height-70vh">
+               <div class="row justify-content-center text-center">
+                  <div class="col-12 col-md-10 col-lg-10">
+                     <h1 class="display-4 mb-3 text-white">Start your Business <span class="typed font-weight-600"></span></h1>
+                     <p class="lead mb-5 text-white">Build an online presence with this professional <br>bootstrap 4 template.</p>
+                     <a class="play-but text-center mt-3 popup-youtube" href="https://www.youtube.com/watch?v=Gc2en3nHxA4">
+                     <span class="play-icon play-icon-md">
+                     <span class="fa fa-play play-icon-inner"></span>
+                     </span>
+                     </a>
+                  </div>
+               </div>
+            </div>
+         </section>
+         <!--End hero section-->
+         <section  class="spacer-double-lg">
+            <!--Container-->
+            <div class="container">
+               <!--Row-->
+               <div class="row justify-content-center">
+                  <div class="col ">
+                     <div class="mb-5  text-center">
+                        <h1>Start your business easly with Foxebiz</h1>
+                        <p class="w-md-75 mb-0 mx-auto">Foxebiz is global communication agency
+                           adapting itself to every type of customer, our work with clients has always been at the intersection of deep
+                           industry expertise and extensive capabilities.  
+                        </p>
+                     </div>
+                  </div>
+               </div>
+               <!--End row-->
+            </div>
+            <!--End container-->
+            <!--Container-->
+            <div class="container">
+               <!--Row-->
+               <div class="row justify-content-center text-center">
+                  <div class="col">
+                     <a class="btn btn-primary btn-wide mb-2 mb-md-0 mr-md-2" href="javascript:;">Start a project</a>
+                     <a class="btn btn-blue-night btn-wide mb-2 mb-md-0" href="javascript:;">Learn More</a>
+                  </div>
+               </div>
+               <!--End row-->
+            </div>
+            <!--End container-->
+            <!--Container-->
+            <div class="container">
+               <!--Row-->
+               <div class="row">
+                  <div class="col">
+                     <div class="mb-5 pb-5 mt-5 pt-5">
+                        <hr>
+                     </div>
+                  </div>
+               </div>
+               <!--End row-->
+            </div>
+            <!--End container-->
+            <!--Container-->
+            <div class="container">
+               <!--Row-->
+               <div class="row">
+                  <div class="col-md-4 mb-4 mb-lg-0">
+                     <div class="text-center px-3">
+                        <img class="max-width-md mb-3" src="assets/svg/startup-icon.svg" alt="">
+                        <h3 class="h5">Professional Design</h3>
+                        <p class="mb-0">A mobile browser is a web browser designed for use on a mobile.</p>
+                     </div>
+                  </div>
+                  <div class="col-md-4 mb-4 mb-lg-0">
+                     <div class="text-center px-3">
+                        <img class="max-width-md mb-3" src="assets/svg/idea-icon.svg" alt="">
+                        <h3 class="h5">Modern Workflow</h3>
+                        <p class="mb-0 ">A mobile browser is a web browser designed for use on a mobile.</p>
+                     </div>
+                  </div>
+                  <div class="col-md-4">
+                     <div class="text-center px-3">
+                        <img class="max-width-md mb-3" src="assets/svg/target-icon.svg" alt="">
+                        <h3 class="h5 ">Real-Time Results</h3>
+                        <p class="mb-0  ">A mobile browser is a web browser designed for use on a mobile.</p>
+                     </div>
+                  </div>
+               </div>
+               <!--End row-->
+            </div>
+            <!--End container-->
+            <!--Container-->
+            <div class="container  mt-5 pt-5">
+               <!--Row-->
+               <div class="row justify-content-center text-left">
+                  <div class="col">
+                     <div class="bg-azure p-5 rounded shadow-lg">
+                        <div class="p-lg-4">
+                           <img class="max-width-sm ml-sm-4 mb-4 " src="assets/svg/quote-icon.svg" alt="">
+                           <div class="bg-review-slider flexslider p-sm-4 pt-0">
+                              <ul class="slides">
+                                 <li>
+                                    <blockquote class="h4 text-white font-weight-light mb-5">There was a constant flow of intellectual questioning about the truth of life. That was a time when every college student in this country read Be Here Now and Diet for a Small Planet there were about ten books</blockquote>
+                                    <h3 class="h6 text-white mb-0">Steve Jobs</h3>
+                                    <span class="d-block text-light font-size-14">Business magnate</span>
+                                 </li>
+                                 <li>
+                                    <blockquote class="h4 text-white font-weight-light mb-5">There was a constant flow of intellectual questioning about the truth of life. That was a time when every college student in this country read Be Here Now and Diet for a Small Planet there were about ten books</blockquote>
+                                    <h3 class="h6 text-white mb-0">Steve Jobs</h3>
+                                    <span class="d-block text-light font-size-14">Business magnate</span>
+                                 </li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <!--End row-->
+            </div>
+            <!--End container-->
+         </section>
+         <!--End section-->
+         <!--Section-->
+         <section class="spacer-double-lg bg-gray">
+            <!--Container-->
+            <div class="container">
+               <!--Row-->
+               <div class="row justify-content-between align-items-center">
+                  <div class="col-lg-5 col-md-6 order-md-1 mb-5 mb-md-0">
+                        <h2>Brainstorming</h2>
+                        <p>Web marketing refers to a broad category of advertising that takes many different forms, but generally involves any marketing activity conducted online. Marketers have shifted their efforts online because it tends to be significantly less expensive.</p>
+                        <a class="btn btn-sm btn-primary " href="#">
+                        Learn More
+                        <span class="fa fa-angle-right font-size-14 ml-2"></span>
+                        </a>
+                  </div>
+                  <div class="col-lg-7 col-md-6 order-md-2">
+                     <div class="text-left text-lg-right">
+                        <img class="img-fluid w-lg-75 w-100" src="assets/svg/working-remotely.svg" alt="">
+                     </div>
+                  </div>
+               </div>
+               <!--End row-->
+            </div>
+            <!--End container-->
+         </section>
+         <!--End section-->
+         <!--Section-->
+         <section class="spacer-double-lg ">
+            <!--Container-->
+            <div class="container">
+               <!--Row-->
+               <div class="row justify-content-between align-items-center">
+                  <div class="col-lg-5 col-md-6 order-md-2 mb-5 mb-md-0">
+                        <h2>Work process</h2>
+                        <p>Web marketing refers to a broad category of advertising that takes many different forms, but generally involves any marketing activity conducted online. Marketers have shifted their efforts online because it tends to be significantly less expensive.</p>
+                        <a class="btn btn-sm btn-primary " href="#">
+                        Learn More
+                        <span class="fa fa-angle-right font-size-14 ml-2"></span>
+                        </a>
+                  </div>
+                  <div class="col-lg-7 col-md-6 order-md-1 ">
+                     <div class="text-left">
+                        <img class="img-fluid w-lg-75 w-100" src="assets/svg/prototyping-proce.svg" alt="">
+                     </div>
+                  </div>
+               </div>
+               <!--End row-->
+            </div>
+            <!--End container-->
+         </section>
+         <!--End section-->
+         <!--Section-->
+         <section class="spacer-double-lg bg-gray">
+            <!--Container-->
+            <div class="container">
+               <!--Row-->
+               <div class="row justify-content-between align-items-center">
+                  <div class="col-lg-5 col-md-6 order-md-1 mb-5 mb-md-0">
+                        <h2 >Deliver and deploy</h2>
+                        <p>Web marketing refers to a broad category of advertising that takes many different forms, but generally involves any marketing activity conducted online. Marketers have shifted their efforts online because it tends to be significantly less expensive.</p>
+                        <a class="btn btn-sm btn-primary " href="#">
+                        Learn More
+                        <span class="fa fa-angle-right font-size-14 ml-2"></span>
+                        </a>
+                  </div>
+                  <div class="col-lg-7 col-md-6 order-md-2 ">
+                     <div class="text-left text-lg-right">
+                        <img class="img-fluid w-lg-75 w-100" src="assets/svg/pair-programming.svg" alt="">
+                     </div>
+                  </div>
+               </div>
+               <!--End row-->
+            </div>
+            <!--End container-->
+         </section>
+         <!--End section-->
+         <!--Section-->
+         <section class=" spacer-double-sm">
+            <div class="background-img gradient-overlay gradient-overlay-azure" >
+               <img src="assets/img/7.jpg" alt="">
+            </div>
+            <!--Container-->
+            <div class="container">
+               <!--Row-->
+               <div class="row text-center text-sm-left">
+                  <div class="col-xl-12">
+                     <div class="d-sm-flex justify-content-sm-center align-items-sm-center">
+                        <div class="mb-4 mb-sm-0 mr-sm-5">
+                           <h2 class="text-white mb-0">Ready to start a project ?</h2>
+                        </div>
+                        <button type="button" class="btn btn-outline-light btn-large">Get Started</button>
+                     </div>
+                  </div>
+               </div>
+               <!--End row-->
+            </div>
+            <!--End container-->
+         </section>
+         <!--End section-->
+         <!--Section-->
+         <section class="spacer-double-lg">
+            <!--Container-->
+            <div class="container">
+               <!--Row-->
+               <div class="row justify-content-center">
+                  <div class="col">
+                     <div class="mb-5 pb-5 text-center">
+                        <h2 class="h3">Foxebiz solutions for your business</h2>
+                        <p class="w-md-75 mb-0 mx-auto">Build an online presence with this professional bootstrap 4 landing page.</p>
+                     </div>
+                  </div>
+               </div>
+               <!--End row-->
+            </div>
+            <!--End container-->
+            <!--Container-->
+            <div class="container">
+               <!--Row-->
+               <div class="row">
+                  <div class="col-md-6 mb-5">
+                     <div class="media pr-lg-4">
+                        <img class="max-width-sm  mr-4" src="assets/svg/worldwide-icon.svg" alt="">
+                        <div class="media-body">
+                           <h4 class="h6">Mobile Apps</h4>
+                           <p class="mb-0">A mobile application, is a type of application software designed to run on a mobile device.</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-6 mb-5">
+                     <div class="media pl-lg-4">
+                        <img class="max-width-sm  mr-4" src="assets/svg/speedometer-icon.svg" alt="">
+                        <div class="media-body">
+                           <h4 class="h6">Optimization</h4>
+                           <p class="mb-0">Optimization is the action of making the best or most effective use of a situation or resource.</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-6 mb-5">
+                     <div class="media pr-lg-4">
+                        <img class="max-width-sm  mr-4" src="assets/svg/startup-icon.svg" alt="">
+                        <div class="media-body">
+                           <h4 class="h6">Marketing</h4>
+                           <p class="mb-0">Marketing refers to the activities of a company associated with buying and selling a product or service. </p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-6 mb-5">
+                     <div class="media pl-lg-4">
+                        <img class="max-width-sm  mr-4" src="assets/svg/settings-icon.svg" alt="">
+                        <div class="media-body">
+                           <h4 class="h6">Web Design</h4>
+                           <p class="mb-0">Web design require many different skills and disciplines in the production and maintenance of websites. </p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-6 mb-5 mb-md-0">
+                     <div class="media pr-lg-4">
+                        <img class="max-width-sm  mr-4" src="assets/svg/dollarsun-icon.svg" alt="">
+                        <div class="media-body">
+                           <h4 class="h6">Web Development</h4>
+                           <p class="mb-0">Web development refers to the tasks of developing websites for hosting via intranet or internet.</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-6">
+                     <div class="media pl-lg-4">
+                        <img class="max-width-sm  mr-4" src="assets/svg/target-icon.svg" alt="">
+                        <div class="media-body">
+                           <h4 class="h6">Emailing</h4>
+                           <p class="mb-0">Emailing is a system for sending messages from one individual to another via telecom links.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <!--End row-->
+            </div>
+            <!--End container-->
+         </section>
+         <!--End section-->
+         <!--Section-->
+         <section class=" spacer-lg">
+            <div class="background-img gradient-overlay gradient-overlay-dark" >
+               <img src="assets/img/3.jpg" alt="">
+            </div>
+            <!--Container-->
+            <div class="container">
+               <!--Row-->
+               <div class="row text-center">
+                  <div class="col-xl-12">
+                        <a class="play-but text-center popup-youtube" href="https://www.youtube.com/watch?v=Gc2en3nHxA4">
+                        <span class="play-icon play-icon-lg">
+                        <span class="fa fa-play play-icon-inner"></span>
+                        </span>
+                        </a>
+                  </div>
+               </div>
+               <!--End row-->
+            </div>
+            <!--End container-->
+         </section>
+         <!--End section-->
+         <!--Section-->
+         <section  class=" spacer-double-lg bg-gray">
+            <!--Container-->
+            <div class="container">
+               <!--Row-->
+               <div class="row justify-content-center">
+                  <div class="col ">
+                     <div class="mb-5 pb-5 text-center">
+                        <h2 class="h3">Latest from the blog</h2>
+                        <p class="w-md-75 mb-0 mx-auto">Build an online presence with this professional bootstrap 4 template.</p>
+                     </div>
+                  </div>
+               </div>
+               <!--End row-->
+            </div>
+            <!--End container-->
+            <!--Container-->
+            <div class="container">
+               <!--Row-->
+               <div class="row">
+                  <div class="col-md-6 col-lg-4 d-flex mb-5 mb-lg-0">
+                     <div class="card">
+                        <a href="javascript:;">
+                        <img class="card-img-top" src="assets/img/15.jpg" alt="">
+                        </a>
+                        <div class="card-body p-5">
+                           <small class="d-block text-muted mb-2 mt-2">Octber 29, 2018</small>
+                           <h5>
+                              <a href="javascript:;">10 Tips for savvy travellers </a>
+                           </h5>
+                           <p>Work closely to create opportunities and provide marketing support.</p>
+                           <a href="#" class="mt-2 d-block">Lifestyle</a>
+                        </div>
+                        <div class="card-footer bg-gray py-3 px-5">
+                           <div class="d-flex align-items-center">
+                              <img src="assets/img/p3.jpg" alt="" class="avatar-sm  rounded-circle mr-3">
+                              <h3 class="d-inline-block mb-0">
+                                 <a class="d-block font-size-14" href="javascript:;">Renee Mu</a>
+                              </h3>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-6 col-lg-4 d-flex mb-5 mb-lg-0">
+                     <div class="card">
+                        <a href="javascript:;">
+                        <img class="card-img-top" src="assets/img/2.jpg" alt="">
+                        </a>
+                        <div class="card-body p-5">
+                           <small class="d-block text-muted mb-2 mt-2">October 29, 2018</small>
+                           <h5>
+                              <a href="javascript:;">Securing your first-round</a>
+                           </h5>
+                           <p>Entrepreneur Joanne Halsey shares her tips for delivering an investor pitch.</p>
+                           <a href="#" class="mt-2 d-block">Finance</a>
+                        </div>
+                        <div class="card-footer bg-gray py-3 px-5">
+                           <div class="d-flex align-items-center">
+                              <img src="assets/img/p1.jpg" alt="" class="avatar-sm  rounded-circle mr-3">
+                              <h3 class="d-inline-block mb-0">
+                                 <a class="d-block font-size-14" href="javascript:;">Jeremy Spivak</a>
+                              </h3>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-6 col-lg-4 d-flex">
+                     <div class="card">
+                        <a href="javascript:;">
+                        <img class="card-img-top" src="assets/img/5.jpg" alt="">
+                        </a>
+                        <div class="card-body p-5">
+                           <small class="d-block text-muted mb-2 mt-2">October 28, 2018</small>
+                           <h5>
+                              <a href="javascript:;">Leverage these growth hacks</a>
+                           </h5>
+                           <p>Simple strategies that are easy to set up and monitor</p>
+                           <a href="#" class="mt-2 d-block">Freelance</a>
+                        </div>
+                        <div class="card-footer bg-gray py-3 px-5">
+                           <div class="d-flex align-items-center">
+                              <img src="assets/img/p2.jpg" alt="" class="avatar-sm  rounded-circle mr-3">
+                              <h3 class="d-inline-block mb-0">
+                                 <a class="d-block font-size-14" href="javascript:;">David Taylor</a>
+                              </h3>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="container">
+               <div class="col">
+                  <div class=" mt-5 pt-5">
+                  </div>
+               </div>
+            </div>
+            <div class="container">
+               <!--Row-->
+               <div class="row justify-content-center">
+                  <div class="col-xl-12">
+                     <div class="text-center">
+                        <a href="javascript:;" class="btn btn-primary">View All Blog Post</a>
+                     </div>
+                  </div>
+               </div>
+               <!--End row-->
+            </div>
+            <!--End container-->
+         </section>
+         <!--End section-->
+         <!--Section-->
+         <section class="spacer-double-lg">
+            <!--Container-->
+            <div class="container">
+               <!--Row-->
+               <div class="row justify-content-center">
+                  <div class="col-12 col-md-10 col-lg-9 ">
+                     <div class=" mb-5 pb-5 text-center">
+                        <h3 class="mb-0">Companies that trust our amazing product</h3>
+                     </div>
+                  </div>
+               </div>
+               <!--End row-->
+            </div>
+            <!--End container-->
+            <!--Container-->
+            <div class="container">
+               <!--Row-->
+               <div class="row justify-content-center text-center">
+                  <div class="col-4 col-md-2 mb-5">
+                     <img class="max-width-md mx-auto" src="assets/img/brand/1.png" alt="">
+                  </div>
+                  <div class="col-4 col-md-2 mb-5">
+                     <img class="max-width-lg mx-auto" src="assets/img/brand/2.png" alt="">
+                  </div>
+                  <div class="col-4 col-md-2 mb-5">
+                     <img class="max-width-md mx-auto" src="assets/img/brand/3.png" alt="">
+                  </div>
+                  <div class="col-4 col-md-2 mb-5">
+                     <img class="max-width-md mx-auto" src="assets/img/brand/4.png" alt="">
+                  </div>
+                  <div class="col-4 col-md-2 mb-5">
+                     <img class="max-width-md mx-auto" src="assets/img/brand/5.png" alt="">
+                  </div>
+                  <div class="col-4 col-md-2 mb-5">
+                     <img class="max-width-md mx-auto" src="assets/img/brand/6.png" alt="">
+                  </div>
+                  <div class="col-4 col-md-2 mb-5">
+                     <img class="max-width-md mx-auto" src="assets/img/brand/7.png" alt="">
+                  </div>
+                  <div class="col-4 col-md-2 mb-5">
+                     <img class="max-width-md mx-auto" src="assets/img/brand/8.png" alt="">
+                  </div>
+                  <div class="col-4 col-md-2 mb-5">
+                     <img class="max-width-md mx-auto" src="assets/img/brand/9.png" alt="">
+                  </div>
+                  <div class="col-4 col-md-2 mb-5">
+                     <img class="max-width-md mx-auto" src="assets/img/brand/10.png" alt="">
+                  </div>
+                  <div class="col-4 col-md-2 mb-5">
+                     <img class="max-width-md mx-auto" src="assets/img/brand/11.png" alt="">
+                  </div>
+                  <div class="col-4 col-md-2 mb-5">
+                     <img class="max-width-md mx-auto" src="assets/img/brand/12.png" alt="">
+                  </div>
+                  <div class="col-4 col-md-2 mb-5 mb-md-0">
+                     <img class="max-width-md mx-auto" src="assets/img/brand/13.png" alt="">
+                  </div>
+                  <div class="col-4 col-md-2 mb-5 mb-md-0">
+                     <img class="max-width-md mx-auto" src="assets/img/brand/14.png" alt="">
+                  </div>
+                  <div class="col-4 col-md-2 mb-5 mb-md-0">
+                     <img class="max-width-md mx-auto" src="assets/img/brand/15.png" alt="">
+                  </div>
+                  <div class="col-4 col-md-2">
+                     <img class="max-width-md mx-auto" src="assets/img/brand/16.png" alt="">
+                  </div>
+                  <div class="col-4 col-md-2">
+                     <img class="max-width-md mx-auto" src="assets/img/brand/17.png" alt="">
+                  </div>
+                  <!--End row-->
+               </div>
+               <!--End container-->
+            </div>
+         </section>
+         <!--End section-->
+         <!--Section-->
+         <section class="spacer-double-xxs text-center bg-azure">
+            <!--Container-->
+            <div class="container">
+               <!--row-->
+               <div class="row">
+                  <div class="col">
+                     <span class="mr-2 text-white"><span class=" fa fa-microphone mr-2"></span>This handy announcement bar keeps the visitors with the latest updates</span>
+                     <a href="javascript:;" class="text-white font-size-15 font-weight-500">View changelog ›</a>
+                  </div>
+               </div>
+               <!--end of row-->
+            </div>
+            <!--end of container-->
+         </section>
+         <!--End section-->
+         <!--Footer-->
+         <footer class="bg-dark spacer-double-md">
+            <!--Container-->
+            <div class="container">
+               <!--row-->
+               <div class="row justify-content-between">
+                  <div class="col-lg-4 d-flex align-items-start flex-column">
+                     <a class="d-inline-block mb-4"  href="javascript:;">
+                     <img src="assets/svg/logo-light.svg" class="footer-logo" alt="">
+                     </a>
+                     <p class="font-size-12 text-light">&copy; 2019 all rights reserved - MutationMedia. <br>A product of mutationthemes.</p>
+                  </div>
+                  <div class="col-6 col-md-4 col-lg-2 mb-0">
+                     <h3 class="h6 text-white mb-3 font-weight-600">About us</h3>
+                     <div class="list-group list-group-flush">
+                        <a class="list-group-item list-group-item-action" href="javascript:;">About</a>
+                        <a class="list-group-item list-group-item-action" href="javascript:;">Services</a>
+                        <a class="list-group-item list-group-item-action" href="javascript:;">Hire us</a>
+                     </div>
+                  </div>
+                  <div class="col-6 col-md-4 col-lg-2 mb-0">
+                     <h3 class="h6 text-white mb-3 font-weight-600">Help &amp; Support</h3>
+                     <div class="list-group list-group-flush">
+                        <a class="list-group-item list-group-item-action" href="javascript:;">Contact us</a>
+                        <a class="list-group-item list-group-item-action" href="javascript:;">Legals</a>
+                        <a class="list-group-item list-group-item-action" href="javascript:;">FAQ</a>
+                     </div>
+                  </div>
+                  <div class="col-6 col-md-4 col-lg-3  mb-0">
+                     <h3 class="h6 text-white mb-3 font-weight-600">Social hubs</h3>
+                     <ul class="list-inline mb-0">
+                        <li class="list-inline-item mb-2 mb-lg-0 mr-1"><a class="social-icon" href="javascript:;"><span class="fab fa-facebook-f"></span></a></li>
+                        <li class="list-inline-item mr-1"><a class="social-icon " href="javascript:;"><span class="fab fa-twitter"></span></a></li>
+                        <li class="list-inline-item mr-1"><a class="social-icon " href="javascript:;"><span class="fab fa-youtube"></span></a></li>
+                        <li class="list-inline-item"><a class="social-icon " href="javascript:;"><span class="fab fa-linkedin"></span></a></li>
+                     </ul>
+                  </div>
+               </div>
+               <!--end of row-->
+            </div>
+            <!--end of container-->
+         </footer>
+         <!--End footer-->
+         <!-- Modal -->
+         <div class="modal login fade" id="login" tabindex="-1" role="dialog"  aria-hidden="true">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="p-5">
+                     <form>
+                        <div id="signin">
+                           <header class="text-center mb-5">
+                              <h2 class="h4 mb-0">Login to Your Account</h2>
+                           </header>
+                           <div class="mb-3">
+                              <div class=" input-group form">
+                                 <div class="input-group-prepend ">
+                                    <span class="input-group-text form-icon">
+                                    <span class="fa fa-user form-icon-inner"></span>
+                                    </span>
+                                 </div>
+                                 <input class="form-control " name="email"  placeholder="Email" type="email">
+                              </div>
+                           </div>
+                           <div class=" mb-3">
+                              <div class=" input-group form">
+                                 <div class="input-group-prepend ">
+                                    <span class="input-group-text form-icon">
+                                    <span class="fa fa-lock form-icon-inner"></span>
+                                    </span>
+                                 </div>
+                                 <input class="form-control " name="password"  placeholder="Password" type="password">
+                              </div>
+                           </div>
+                           <div class="mb-3">
+                              <button type="submit" class="btn btn-block btn-primary">Login to your account</button>
+                           </div>
+                           <div class="text-center mb-3">
+                              <p class="text-muted small mb-0">
+                                 Dont have an account yet? 
+                                 <a href="#"   >Create an account
+                                 </a>
+                              </p>
+                              <p class="text-muted small">
+                                 Forgot your username or password? 
+                                 <a href="#">  Recover account
+                                 </a>
+                              </p>
+                           </div>
+                           <div class="text-center divider-holder my-3">
+                              <span class="divider">OR</span>
+                           </div>
+                           <div class="row mx-gutters-2 mb-4">
+                              <div class="col-sm-6 mb-2 mb-sm-0">
+                                 <button type="button" class="btn  btn-block btn-facebook">
+                                 <span class="fab fa-facebook-f mr-2"></span>
+                                 Login with Facebook
+                                 </button>
+                              </div>
+                              <div class="col-sm-6">
+                                 <button type="button" class="btn btn-block btn-twitter">
+                                 <span class="fab fa-twitter mr-2"></span>
+                                 Login with Twitter
+                                 </button>
+                              </div>
+                           </div>
+                        </div>
+                     </form>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <!-- End modal -->
+         <!--To the top-->
+         <a class="scroll-to-top scroll" href="#wrapper"><span class=" fa fa-angle-up top-icon "></span></a>  
+         <!-- End to the top -->
+      </div>
+      <!-- End wrapper-->
+      <!--Javascript--> 
+      <script src="js/jquery-1.12.4.min.js" ></script>
+      <script src="js/bootstrap.min.js"></script>
+      <script src="js/bootstrap-dropdownhover.min.js"></script>
+      <script src="js/jquery.flexslider-min.js"></script>
+      <script src="js/smooth-scroll.js" ></script>
+      <script src="js/jquery.magnific-popup.min.js" ></script>
+      <script src="js/jquery.countdown.min.js" ></script>
+      <script src="js/typed.min.js"></script>
+      <script src="js/typeanimation.js"></script>
+      <script src="js/placeholders.min.js"></script>
+      <script src="js/script.js"></script>
+      <!-- Google analytics -->
+      <!-- End google analytics -->
+   </body>
+</html>
+
