@@ -20,13 +20,13 @@ Music Maker Jam is now editors choice in the play store and the topmost rated ap
 
 Top Features:
 
-Choose from 300+ Mix Packs
-Create your own unique sound
-You are the producer
-Access thousands of studio-quality loops
-Be creative with easy controls
-Remix tracks
-Record your own vocals
+- Choose from 300+ Mix Packs
+- Create your own unique sound
+- You are the producer
+- Access thousands of studio-quality loops
+- Be creative with easy controls
+- Remix tracks
+- Record your own vocals
 
 <h3> 8. AUDIO EVOLUTION MOBILE </h3>
 
@@ -38,14 +38,14 @@ Sunvox app is developed by Alexander Zolotov. this is the top music creation too
 
 Top Features:
 
-Powerful microtonal (ultra-chromatic) sequencer.
-Highly optimized synth algorithms.
-Support of 16/24/32bit WAV, AIFF, and XI samples.
-Multitrack WAV export.
-MIDI import/export.
-Mic/Line-in recording (using the Sampler).
-XM (FastTracker) and MOD (ProTracker, OctaMED) import.
-It is also available for other systems (Windows, Linux, macOS, iOS, etc.
+- Powerful microtonal (ultra-chromatic) sequencer.
+- Highly optimized synth algorithms.
+- Support of 16/24/32bit WAV, AIFF, and XI samples.
+- Multitrack WAV export.
+- MIDI import/export.
+- Mic/Line-in recording (using the Sampler).
+- XM (FastTracker) and MOD (ProTracker, OctaMED) import.
+- It is also available for other systems (Windows, Linux, macOS, iOS, etc.
 
 <h3> 6. SPC – MUSIC DRUM PAD </h3>
 
@@ -53,16 +53,16 @@ SPC – Music drum pad is developed by mikrosonic. This is not free apps they on
 
 Top Features:
 
-Multi-touch control
-Reverb, delay, phaser, filter, and distortion
-Freely assignable to each pad
-Real-time controllable effects
-Waveform display
-Reverse, normalize and cut function
-Up to 16 steps volume and pan envelope for loops
-Record your voice
-Record one-shot samples with trigger function
-Full featured drum machine
+- Multi-touch control
+- Reverb, delay, phaser, filter, and distortion
+- Freely assignable to each pad
+- Real-time controllable effects
+- Waveform display
+- Reverse, normalize and cut function
+- Up to 16 steps volume and pan envelope for loops
+- Record your voice
+- Record one-shot samples with trigger function
+- Full featured drum machine
 
 <h3> 5. RD4 GROOVEBOX </h3>
 
@@ -70,16 +70,16 @@ RD4 Groovebox is developed by mikrosonic. this is launched on September 6, 2016.
 
 Top Features:
 
-4 channel rack mixer
-Instrument selection for each channel
-Volume control with level meter per channel
-2 banks with up two 8 bars per instrument
-Adjustable play modes from 1 to 8 bars and random modes
-Multi-touch control
-Live session recording
-Audio loop export feature
-SoundCloud Sharing Kit integration
-Recording of played notes in real-time
+- 4 channel rack mixer
+- Instrument selection for each channel
+- Volume control with level meter per channel
+- 2 banks with up two 8 bars per instrument
+- Adjustable play modes from 1 to 8 bars and random modes
+- Multi-touch control
+- Live session recording
+- Audio loop export feature
+- SoundCloud Sharing Kit integration
+- Recording of played notes in real-time
 
 <h3> 4. NANOLOOP </h3>
 
@@ -89,17 +89,17 @@ Top Features:
 
 - suitable for rhythm and melody
 - Automatisation of all parameters
-8 channels, each can be synth or sampler
-8 patterns per channel
-Load samples from SD-card
-Sample via microphone
-Trim samples
-Re-sample
-Polyphonic FM-, PWM- and noise synth
-Song editor with loop function
-Send and receive projects via e-mail
-Compatible with iOS version
-WAV and Ogg Vorbis export
+- 8 channels, each can be synth or sampler
+- 8 patterns per channel
+- Load samples from SD-card
+- Sample via microphone
+- Trim samples
+- Re-sample
+- Polyphonic FM-, PWM- and noise synth
+- Song editor with loop function
+- Send and receive projects via e-mail
+- Compatible with iOS version
+- WAV and Ogg Vorbis export
 
 <h3> 3. CAUSTIC 3 </h3>
 
@@ -107,18 +107,18 @@ Caustic 3 is developed by Single Cell Software, Caustic 3 is the best music crea
 
 Top Features:
 
-Subsynth
-PCMSynth
-BassLine
-BeatBox
-PadSynth
-8BitSynth
-Modular
-Organ
-Vocode
-FMSynth
-KSSynth
-SawSynth
+- Subsynth
+- PCMSynth
+- BassLine
+- BeatBox
+- PadSynth
+- 8BitSynth
+- Modular
+- Organ
+- Vocode
+- FMSynth
+- KSSynth
+- SawSynth
 
 <h3> 2. Audio MP3 Cutter Mix Converter and Ringtone Maker </h3>
 
@@ -126,12 +126,12 @@ Audio MP3 Cutter Mix Converter and Ringtone Maker is developed by the popular de
 
 Top Features:
 
-MP3 Cutter
-Ringtone Setting
-Audio Mixing Tool
-Merge Audio
-Metadata Editor
-MP3 Converter
+- MP3 Cutter
+- Ringtone Setting
+- Audio Mixing Tool
+- Merge Audio
+- Metadata Editor
+- MP3 Converter
 
 <h3> 1. FL STUDIO MOBILE </h3>
 
@@ -139,17 +139,17 @@ Fl studio mobile is developed by Image-Line. Fl studio mobile is one of the best
 
 Top Features:
 
-High-quality synthesizers, drum kits
-Step Sequencer
-Configurable virtual piano-keyboard & Drumpads
-Class-compliant MIDI controller support.
-Play instruments and link to knobs/sliders
-Audio recording, track-length
-Pan, volume, release and attack time configurable per instrument
-High-quality audio engine
-Mixer: Per-track mute, solo, effect bus, pan and volume adjustment
-Effects include: Auto Ducker, Chorus, Compressor, Limiter, Distortion, Parametric Equalizer, Graphic Equalizer, Flanger, Reverb, and many  more
-Piano roll editor to enter notes & chords
+- High-quality synthesizers, drum kits
+- Step Sequencer
+- Configurable virtual piano-keyboard & Drumpads
+- Class-compliant MIDI controller support.
+- Play instruments and link to knobs/sliders
+- Audio recording, track-length
+- Pan, volume, release and attack time configurable per instrument
+- High-quality audio engine
+- Mixer: Per-track mute, solo, effect bus, pan and volume adjustment
+- Effects include: Auto Ducker, Chorus, Compressor, Limiter, Distortion, Parametric Equalizer, Graphic Equalizer, Flanger, Reverb, and many  more
+- Piano roll editor to enter notes & chords
 
 ## Conclusion:
 
