@@ -18,3 +18,5 @@ Are you looking for How to take screenshot in Samsung j7 ?it means you have Sams
 ## Conclusion
 
 I think your problem is solved. If your problem is not solved then comment your question in comment box I am waiting for your comment.
+
+### Edit Article 
