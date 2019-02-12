@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact - Andrimo
-permalink: /about
+permalink: /contact
 comments: false
 ---  
 
