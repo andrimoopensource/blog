@@ -53,7 +53,7 @@ hidden: true
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1743} -->
-<figure class="wp-block-image"><img src="http://rahulit.com/wp-content/uploads/2018/02/zcvvdz.jpg" alt="How to publish android application in 9apps" class="wp-image-1743"/></figure>
+![How to Publish Android Application in 9apps](upload-your-material.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
