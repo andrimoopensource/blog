@@ -41,7 +41,7 @@ hidden: true
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1742} -->
-![How to Publish Android Application in 9apps](images/upload-your-apps.jpg)
+![Upload your apps](images/upload-your-apps.jpg)
 <!-- /wp:image -->
 
 <!-- wp:heading -->
