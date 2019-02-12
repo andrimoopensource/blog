@@ -41,7 +41,7 @@ hidden: true
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1742} -->
-![How to Publish Android Application in 9apps](upload-your-apps.jpg)
+![How to Publish Android Application in 9apps](images/upload-your-apps.jpg)
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -53,7 +53,7 @@ hidden: true
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1743} -->
-![How to Publish Android Application in 9apps](upload-your-material.jpg)
+![How to Publish Android Application in 9apps](images/upload-your-material.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
