@@ -20,6 +20,8 @@ A view that displays web pages is Known as Android System Webview.
 
 Example: If you make Android Web View App From Android Studio, you can open that website in your application directly, without type website URL in your browser.
 
+![What is Android System Webview]({{ site.baseurl }}/assets/images/what-is-android-system-webview.jpg)
+
 ## Can you uninstall Android System Webview App?
 
 No, It’s not Possible to uninstall Android Webview App from Android Device because this app allows showing web app content that is developed by chrome browser. You can disable this app for temporary, not permanent.
