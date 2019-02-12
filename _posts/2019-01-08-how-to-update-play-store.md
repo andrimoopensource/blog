@@ -24,8 +24,6 @@ The first method I have for you is to using setting. That means without installi
 <p align="center">
   <img width="176px" height="312px" src="site.baseurl/assets/images/play-store.jpg">
 </p>
-
-     ![How to update the Play Store]({{ site.baseurl }}/assets/images/play-store.jpg){:height="312px" width="176px" align:"center"}
 - Now click on the box that is located on the Top left corner.
      ![How to update the Play Store]({{ site.baseurl }}/assets/images/play-store-1.jpg){:height="312px" width="176px" align:"center"}
 - Find Play Store Setting and then click on it.
