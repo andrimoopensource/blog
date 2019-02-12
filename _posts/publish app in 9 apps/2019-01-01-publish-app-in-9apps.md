@@ -41,7 +41,7 @@ hidden: true
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1742} -->
-![Upload your apps](images/upload-your-apps.jpg)
+![Upload your apps](https://github.com/rahulkumarsingh73690/andrimo/blob/master/_posts/publish%20app%20in%209%20apps/images/upload-your-apps.jpg)
 <!-- /wp:image -->
 
 <!-- wp:heading -->
