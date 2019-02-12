@@ -6,6 +6,8 @@
 
 [Website](https://www.andrimo.com/) &nbsp; | &nbsp; [How to Edit Andrimo Article](#) &nbsp; | &nbsp; [About](https://www.andrimo.com/about) &nbsp; |
 
+Inspired By [Microsoft Documentation](https://docs.microsoft.com)
+
 ### Copyright
 
 Copyright (C) 2019 Andrimo, https://www.andrimo.com
