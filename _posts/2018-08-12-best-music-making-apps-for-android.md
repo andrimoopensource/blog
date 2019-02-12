@@ -2,7 +2,7 @@
 layout: post
 title:  "Best Music Making Apps for Android Must Check (UPDATED)"
 author: Team Andrimo
-categories: [ Jekyll, tutorial ]
+categories: [ Apps ]
 image: assets/images/best-music-making-apps-for-android.jpeg
 ---
 
