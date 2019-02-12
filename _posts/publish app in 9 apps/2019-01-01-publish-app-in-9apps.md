@@ -53,7 +53,8 @@ hidden: true
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1743} -->
-![How to Publish Android Application in 9apps](images/upload-your-material.jpg)
+<img src="images/upload-your-material.jpg"
+     alt="Publish app in 9 apps" />
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
