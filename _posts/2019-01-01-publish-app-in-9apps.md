@@ -61,7 +61,7 @@ hidden: true
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If you want to create website like this then checkout [this article](https://www.rahulit.com/how-to-create-a-website-free-of-cost/).
+If you want to create website like this then checkout [this article](https://www.rahulit.com/how-to-create-a-website-free-of-cost/){:rel="nofollow"}{:target="_blank"} 
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
