@@ -41,7 +41,7 @@ hidden: true
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1742} -->
-![How to Publish Android Application in 9apps](https://github.com/rahulkumarsingh73690/andrimo/blob/master/assets/images/upload-your-apps.jpg)
+![How to Publish Android Application in 9apps](upload-your-apps.jpg)
 <!-- /wp:image -->
 
 <!-- wp:heading -->
