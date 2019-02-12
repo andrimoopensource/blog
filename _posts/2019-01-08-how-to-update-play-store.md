@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Update Play Store Officially – Brief Guide About Play Store Update"
 author: Team Andrimo
-categories: [ Jekyll, tutorial ]
+categories: [ Tutorial ]
 image: assets/images/how-to-update-play-store.jpg
 ---
 Are you looking for how to update the play store? then in this article, I will show you how to update the play store or play store update. So let’s began this brief guide about play store update.
@@ -34,5 +34,7 @@ Open any website and then download Latest Version of Play Store.
 Turn On Unknown Source from setting
 Now Go to Chrome Download Click on Play Store Apk.
 Then the installing will start now go to play store you can your play store is changed it means updated.
-Conclusion:
+
+## Conclusion:
+
 My Conclusion about this article is you can go to the First method this easy and quick method to update the play store. Now it’s your turn please drop your conclusion in the comment box.
