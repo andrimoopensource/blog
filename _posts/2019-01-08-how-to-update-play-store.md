@@ -19,21 +19,26 @@ There are two methods to upgrade the play store. See this guide that helps you t
 
 The first method I have for you is to using setting. That means without installing third-party apps. So let’s get started:
 
-Open Play Store in your Android Smartphone or Android Tab or Any Android Device.How to Update Play Store 
-Now click on the box that is located on the Top left corner.How to Update Play Store 
-Find Play Store Setting and then click on it.How to Update Play Store 
-Scroll Down in Play Store Setting. You can see the Play Store Version.How to Update Play Store 
-Click on Play Store Version in Setting. Now you can see if your play store is not updated then the update starts automatically. but if your play store is updated then if you click on play store version then you can see one popup will open and show “Google Play Store is Updated”How to Update Play Store 
+- Open Play Store in your Android Smartphone or Android Tab or Any Android Device.
+- Now click on the box that is located on the Top left corner.
+- Find Play Store Setting and then click on it.
+- Scroll Down in Play Store Setting. You can see the Play Store Version.
+- Click on Play Store Version in Setting. Now you can see if your play store is not updated then the update starts automatically. but if your play store is updated then if you click on play store version then you can see one popup will open and show “Google Play Store is Updated
 
 ## Here is How to update the Play Store (Second Method):
 
 The second method I have for you is to use the third-party apps. So let’s get started:
 
-Open your Browser use chrome browser. Now Search “Google Play Store Apk”
-Open any website and then download Latest Version of Play Store.
-Turn On Unknown Source from setting
-Now Go to Chrome Download Click on Play Store Apk.
-Then the installing will start now go to play store you can your play store is changed it means updated.
+- Open your Browser use chrome browser. Now Search “Google Play Store Apk”
+     ![How to update the Play Store]({{ site.baseurl }}/assets/images/play-store.jpg)
+- Open any website and then download Latest Version of Play Store.
+     ![How to update the Play Store]({{ site.baseurl }}/assets/images/play-store-1.jpg)
+- Turn On Unknown Source from setting
+     ![How to update the Play Store ]({{ site.baseurl }}/assets/images/play-store-2.jpg)
+- Now Go to Chrome Download Click on Play Store Apk.
+     ![How to update the Play Store ]({{ site.baseurl }}/assets/images/play-store-3.jpg)
+- Then the installing will start now go to play store you can your play store is changed it means updated.
+     ![How to update the Play Store ]({{ site.baseurl }}/assets/images/play-store-4.jpg)
 
 ## Conclusion:
 
