@@ -2,7 +2,7 @@
 layout: post
 title:  "What is Android System WebView – All About System WebView"
 author: Team Andrimo
-categories: [ Jekyll, tutorial ]
+categories: [ Android Basics ]
 image: assets/images/android-system-web-view.jpg
 featured: true
 hidden: true
