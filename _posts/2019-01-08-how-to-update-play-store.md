@@ -22,7 +22,7 @@ The first method I have for you is to using setting. That means without installi
 - Open Play Store in your Android Smartphone or Android Tab or Any Android Device.
 
 <p align="center">
-  <img width="176px" height="312px" src="site.baseurl/assets/images/play-store.jpg">
+  <img width="176px" height="312px" src="https://www.rinfotec.com/assets/images/play-store.jpg">
 </p>
 - Now click on the box that is located on the Top left corner.
      ![How to update the Play Store]({{ site.baseurl }}/assets/images/play-store-1.jpg){:height="312px" width="176px" align:"center"}
