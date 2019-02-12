@@ -20,7 +20,9 @@ A view that displays web pages is Known as Android System Webview.
 
 Example: If you make Android Web View App From Android Studio, you can open that website in your application directly, without type website URL in your browser.
 
-![What is Android System Webview]({{ site.baseurl }}/assets/images/what-is-android-system-webview.jpg)
+<p align="center">
+  <img width="176px" height="312px" src="https://www.rinfotec.com/assets/images/what-is-android-system-webview.jpg">
+</p>
 
 ## Can you uninstall Android System Webview App?
 
