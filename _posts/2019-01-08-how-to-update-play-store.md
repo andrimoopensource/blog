@@ -24,19 +24,27 @@ The first method I have for you is to using setting. That means without installi
 <p align="center">
   <img width="176px" height="312px" src="https://www.rinfotec.com/assets/images/play-store.jpg">
 </p>
+
 - Now click on the box that is located on the Top left corner.
+
      <p align="center">
   <img width="176px" height="312px" src="https://www.rinfotec.com/assets/images/play-store-1.jpg">
 </p>
+  
 - Find Play Store Setting and then click on it.
+
      <p align="center">
   <img width="176px" height="312px" src="https://www.rinfotec.com/assets/images/play-store-2.jpg">
 </p>
+
 - Scroll Down in Play Store Setting. You can see the Play Store Version.
+
      <p align="center">
   <img width="176px" height="312px" src="https://www.rinfotec.com/assets/images/play-store-3.jpg">
 </p>
+
 - Click on Play Store Version in Setting. Now you can see if your play store is not updated then the update starts automatically. but if your play store is updated then if you click on play store version then you can see one popup will open and show “Google Play Store is Updated.
+
     <p align="center">
   <img width="176px" height="312px" src="https://www.rinfotec.com/assets/images/play-store-4.jpg">
 </p>
