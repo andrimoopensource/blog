@@ -41,7 +41,7 @@ hidden: true
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1742} -->
-![Upload your apps](https://github.com/rahulkumarsingh73690/andrimo/blob/master/_posts/publish%20app%20in%209%20apps/images/upload-your-apps.jpg)
+![Upload your apps]({{ site.baseurl }}/assets/images/upload-your-apps.jpg)
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -53,9 +53,7 @@ hidden: true
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1743} -->
-<img src="images/upload-your-material.jpg"
-     alt="Publish app in 9 apps" />
-<!-- /wp:image -->
+![Upload your material]({{ site.baseurl }}/assets/images/upload-your-material.jpg)<!-- /wp:image -->
 
 <!-- wp:paragraph -->
 <p>If you don’t know how to get Zip file of any apk Just watch this video. Now Press Submit Button and wait it takes 12-24 hours  after successful upload  you will get an email from 9 apps in under 24 hours.”9apps”</p>
