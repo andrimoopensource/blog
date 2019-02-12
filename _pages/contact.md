@@ -5,8 +5,8 @@ permalink: /contact
 comments: false
 ---  
 
-<form action="https://formspree.io/team@andrimo.com" method="POST">
-  <input type="text" name="name">
-  <input type="email" name="_replyto">
-  <input type="submit" value="Send">
+<form method="POST" action="https://formspree.io/team@andrimo.com">
+  <input type="email" name="email" placeholder="Your email">
+  <textarea name="message" placeholder="Test Message"></textarea>
+  <button type="submit">Send Test</button>
 </form>
