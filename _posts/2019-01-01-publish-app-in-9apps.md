@@ -41,8 +41,6 @@ hidden: true
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1742} -->
-<img src="![Upload your apps]({{ site.baseurl }}/assets/images/upload-your-apps.jpg)
-" width="200">
 ![Upload your apps]({{ site.baseurl }}/assets/images/upload-your-apps.jpg)
 <!-- /wp:image -->
 
