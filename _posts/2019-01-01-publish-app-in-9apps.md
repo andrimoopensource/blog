@@ -41,7 +41,7 @@ hidden: true
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1742} -->
-<figure class="wp-block-image"><img src="http://rahulit.com/wp-content/uploads/2018/02/jzh.jpg" alt="" class="wp-image-1742"/></figure>
+<img src="assets/images/upload-your-apps.jpg" alt="how to publish app in 9 apps" class="inline"/>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
