@@ -9,5 +9,5 @@ comments: false
   <input type="name" name="name" placeholder="Your name">
   <input type="email" name="email" placeholder="Your email">
   <textarea name="message" placeholder="Test Message"></textarea>
-  <button type="submit">Send Test</button>
+  <button type="submit">Send</button>
 </form>
