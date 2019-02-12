@@ -20,7 +20,8 @@ There are two methods to upgrade the play store. See this guide that helps you t
 The first method I have for you is to using setting. That means without installing third-party apps. So let’s get started:
 
 - Open Play Store in your Android Smartphone or Android Tab or Any Android Device.
-     ![How to update the Play Store]({{ site.baseurl }}/assets/images/play-store.jpg){:height="312px" width="176px" center}
+  <p align="center">
+     ![How to update the Play Store]({{ site.baseurl }}/assets/images/play-store.jpg){:height="312px" width="176px" center} </p>
 - Now click on the box that is located on the Top left corner.
      ![How to update the Play Store]({{ site.baseurl }}/assets/images/play-store-1.jpg)
 - Find Play Store Setting and then click on it.
