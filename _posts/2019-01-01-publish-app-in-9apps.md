@@ -5,7 +5,7 @@ author: Team Andrimo
 categories: [ Tutorial ]
 image: assets/images/8.jpg
 featured: true
-hidden: true
+
 ---
 
 <!-- wp:paragraph -->
