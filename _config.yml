@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: 
 google_analytics: 'UA-46278016-1'
 disqus: 'andrimo'
-mailchimp-list: 'http://eepurl.com/gg6EE5'
+mailchimp-list: 'https://eepurl.com/gg6EE5'
 include: ["_pages"]
 permalink: /:title/
 
