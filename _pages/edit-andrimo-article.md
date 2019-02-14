@@ -12,6 +12,8 @@ Andrimo is a open Source Website, so anyone can edit it, But for editing Andrimo
 
 The First Step i have for you is find the article that you want to edit in Andrimo Website.
 
+![How to edit andrimo article](assets/images/edit-andrimo-article.jpg)
+
 ## Step 2
 
 The Second Step i have for you is when you finally find that article you want to edit then click on the edit button appers on the left side.
