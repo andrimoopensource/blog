@@ -20,4 +20,4 @@ Are you looking for How to take screenshot in Samsung j7 ?it means you have Sams
 I think your problem is solved. If your problem is not solved then comment your question in comment box I am waiting for your comment.
 
 
-> [Edit Article](https://github.com/andrimoopensource/website/edit/master/_posts/2018-01-12-how-to-take-screenshot-in-samsung-j7.md)
+> [Edit Article](https://github.com/andrimoopensource/website/blob/master/_posts/2018-01-12-how-to-take-screenshot-in-samsung-j7.md)
