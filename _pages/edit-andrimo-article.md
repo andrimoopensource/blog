@@ -24,21 +24,31 @@ The Second Step i have for you is when you finally find that article you want to
 
 The Third step i have for you is click on Sign Up Button to get access on editing article.
 
+![How to edit andrimo article]({{ site.baseurl }}/assets/images/edit-andrimo-article2.png)
+
 ## Step 4
 
 The Fourth Step i have for you is fill your basic details to Sign up.
+
+![How to edit andrimo article]({{ site.baseurl }}/assets/images/edit-andrimo-article3.png)
 
 ## Step 5
 
 The Fifth step i have for you is now click on Edit icon.
 
+![How to edit andrimo article]({{ site.baseurl }}/assets/images/edit-andrimo-article4.png)
+
 ## Step 6
 
 The Sixth Step i have for you is add / remove text in the article where you want to add / remove text.
 
+![How to edit andrimo article]({{ site.baseurl }}/assets/images/edit-andrimo-article5.png)
+
 ## Step 7
 
 The Seventh Step i have for you is tell your reason for changes in article and then click on Commit New File Button.
+
+![How to edit andrimo article]({{ site.baseurl }}/assets/images/edit-andrimo-article6.png)
 
 
 <div class="sticky-top sticky-top-80">
