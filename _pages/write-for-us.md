@@ -30,7 +30,7 @@ comments: false
 
 <h3> Can i edit any article in andrimo? </h3>
 
-<p> Yes, Anyone can edit any article in this website. If you want to know how to edit article in andrimo then <a href="https://www.andrimo.com/edit-andrimo-article/"> checkout this guide </a> </p>
+<p> Yes, Anyone can edit any article in this website. If you want to know how to edit article in andrimo then <a href="https://www.andrimo.com/edit-andrimo-article"> checkout this guide </a> </p>
   
 <h3> Can i put links in article? </h3>
 
