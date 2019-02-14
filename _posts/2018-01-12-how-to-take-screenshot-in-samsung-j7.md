@@ -21,3 +21,7 @@ I think your problem is solved. If your problem is not solved then comment your 
 
 >[!Edit]
 > Looking for information about older versions of Windows? Check out our other [Windows libraries](/previous-versions/windows/) on docs.microsoft.com. You can also search this site to find specific information, like this [Windows 8.1 content](https://docs.microsoft.com/search/index?search=Windows+8.1&dataSource=previousVersions).
+
+<div class="edit">
+Looking for information about older versions of Windows? Check out our other [Windows libraries](/previous-versions/windows/) on docs.microsoft.com. You can also search this site to find specific information, like this [Windows 8.1 content](https://docs.microsoft.com/search/index?search=Windows+8.1&dataSource=previousVersions).
+ </div>
