@@ -18,6 +18,8 @@ The First Step i have for you is find the article that you want to edit in Andri
 
 The Second Step i have for you is when you finally find that article you want to edit then click on the edit button appers on the left side.
 
+![How to edit andrimo article]({{ site.baseurl }}/assets/images/edit-andrimo-article1.jpg)
+
 ## Step 3
 
 The Third step i have for you is click on Sign Up Button to get access on editing article.
