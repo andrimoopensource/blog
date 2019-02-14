@@ -6,6 +6,9 @@ description:
 comments: false
 ---  
 
+<div class="row justify-content-between">
+<div class="col-md-8 pr-5">    
+
 Andrimo is a open Source Website, so anyone can edit it, But for editing Andrimo Article needs an Github Account to Get Access.
 
 ## Steps 1 
@@ -51,6 +54,10 @@ The Seventh Step i have for you is tell your reason for changes in article and t
 ![How to edit andrimo article]({{ site.baseurl }}/assets/images/edit-andrimo-article6.png)
 
 
+</div>
+
+<div class="col-md-4">
+    
 <div class="sticky-top sticky-top-80">
 <h5>Buy me a coffee</h5>
 
@@ -87,3 +94,4 @@ The Seventh Step i have for you is tell your reason for changes in article and t
 </div>
 </div>
 </div>
+
