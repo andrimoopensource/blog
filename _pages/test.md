@@ -2,7 +2,7 @@
 layout: page
 title: Mediumish Template for Jekyll
 permalink: /test
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
