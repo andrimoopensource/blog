@@ -665,5 +665,10 @@ License: https://www.wowthemes.net/freebies-license/
     top:80px;
 }
 .edit
-    color: #0000ff;
+    border:1px solid #ddd;
+     width:30px;
+     height:30px;
+     line-height:30px;
+    text-align:center;
+    border-radius:50%;
 {
