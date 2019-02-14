@@ -11,49 +11,6 @@ comments: false
 
 Andrimo is a open Source Website, so anyone can edit it, But for editing Andrimo Article needs an Github Account to Get Access.
 
-## Steps 1 
-
-The First Step i have for you is find the article that you want to edit in Andrimo Website.
-
-![How to edit andrimo article]({{ site.baseurl }}/assets/images/edit-andrimo-article.png)
-
-## Step 2
-
-The Second Step i have for you is when you finally find that article you want to edit then click on the edit button appers on the left side.
-
-![How to edit andrimo article]({{ site.baseurl }}/assets/images/edit-andrimo-article1.png)
-
-## Step 3
-
-The Third step i have for you is click on Sign Up Button to get access on editing article.
-
-![How to edit andrimo article]({{ site.baseurl }}/assets/images/edit-andrimo-article2.png)
-
-## Step 4
-
-The Fourth Step i have for you is fill your basic details to Sign up.
-
-![How to edit andrimo article]({{ site.baseurl }}/assets/images/edit-andrimo-article3.png)
-
-## Step 5
-
-The Fifth step i have for you is now click on Edit icon.
-
-![How to edit andrimo article]({{ site.baseurl }}/assets/images/edit-andrimo-article4.png)
-
-## Step 6
-
-The Sixth Step i have for you is add / remove text in the article where you want to add / remove text.
-
-![How to edit andrimo article]({{ site.baseurl }}/assets/images/edit-andrimo-article5.png)
-
-## Step 7
-
-The Seventh Step i have for you is tell your reason for changes in article and then click on Commit New File Button.
-
-![How to edit andrimo article]({{ site.baseurl }}/assets/images/edit-andrimo-article6.png)
-
-
 </div>
 
 <div class="col-md-4">
@@ -95,3 +52,44 @@ The Seventh Step i have for you is tell your reason for changes in article and t
 </div>
 </div>
 
+## Steps 1 
+
+The First Step i have for you is find the article that you want to edit in Andrimo Website.
+
+![How to edit andrimo article]({{ site.baseurl }}/assets/images/edit-andrimo-article.png)
+
+## Step 2
+
+The Second Step i have for you is when you finally find that article you want to edit then click on the edit button appers on the left side.
+
+![How to edit andrimo article]({{ site.baseurl }}/assets/images/edit-andrimo-article1.png)
+
+## Step 3
+
+The Third step i have for you is click on Sign Up Button to get access on editing article.
+
+![How to edit andrimo article]({{ site.baseurl }}/assets/images/edit-andrimo-article2.png)
+
+## Step 4
+
+The Fourth Step i have for you is fill your basic details to Sign up.
+
+![How to edit andrimo article]({{ site.baseurl }}/assets/images/edit-andrimo-article3.png)
+
+## Step 5
+
+The Fifth step i have for you is now click on Edit icon.
+
+![How to edit andrimo article]({{ site.baseurl }}/assets/images/edit-andrimo-article4.png)
+
+## Step 6
+
+The Sixth Step i have for you is add / remove text in the article where you want to add / remove text.
+
+![How to edit andrimo article]({{ site.baseurl }}/assets/images/edit-andrimo-article5.png)
+
+## Step 7
+
+The Seventh Step i have for you is tell your reason for changes in article and then click on Commit New File Button.
+
+![How to edit andrimo article]({{ site.baseurl }}/assets/images/edit-andrimo-article6.png)
