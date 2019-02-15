@@ -4,7 +4,7 @@
 
 ### Details
 
-[Website](https://www.andrimo.com/) &nbsp; | &nbsp; [How to Edit Andrimo Article](#) &nbsp; | &nbsp; [About](https://www.andrimo.com/about) &nbsp; |
+[Website](https://www.andrimo.com/) &nbsp; | &nbsp; [How to Edit Andrimo Article](https://www.andrimo.com/edit-andrimo-article) &nbsp; | &nbsp; [About](https://www.andrimo.com/about) &nbsp; |
 
 Inspired By [Microsoft Documentation](https://docs.microsoft.com)
 
