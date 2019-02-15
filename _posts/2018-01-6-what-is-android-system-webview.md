@@ -38,8 +38,8 @@ If you want to create a website like this then see How to create a website free 
 
 ## Conclusion:
 
-When you completely read this article I know you understand about webview app and why do not disable this app on the android device.
+When you completely read this article you understand about webview app and why do not disable this app on the android device.
 
 At last, I recommend everyone to please do not disable webview app on your device because it may cause your app is not running
 
-If you have any queries about Webview app then please drop your comment in comment box.
+If you have any questions or queries about Webview app then please drop your comment in comment box.
