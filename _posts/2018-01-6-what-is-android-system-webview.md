@@ -2,13 +2,14 @@
 layout: post
 title:  "What is Android System WebView – All About System WebView"
 author: Team Andrimo
+description: If you are the android user then you must be seen Android System Webview App on your Android smartphone or Tab
 categories: [ Android Basics ]
 image: https://www.andrimo.com/assets/images/android-system-web-view.jpg
 featured: true
 hidden: true
 ---
 
-If you are the android user then you must be seen Android System Webview App on your  Android smartphone or Tab. Do you know what is System Webview and Why this app is Pre-installed on every android device?
+If you are the android user then you must be seen Android System Webview App on your Android smartphone or Tab. Do you know what is System Webview and Why this app is Pre-installed on every android device?
 
 Today in this article I will explain everything about the Android Webview App
 
