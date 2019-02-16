@@ -3,7 +3,7 @@ layout: post
 title:  "Reduce the Remote Clutter with Peel Remote App"
 author: Team Andrimo
 categories: [ Review ]
-image: https://www.andrimo.com/assets/images/peel-remote-app.jpg
+image: assets/images/peel-remote-app.jpg
 ---
 Home technology is continuously advancing and with that, the number of smart devices is increasing too. As much it these remote-controlled devices aim to bring convenience to our lives, having to manage multiple remotes somewhere does the opposite. Moreover, they end up creating a clutter on the table which can make your room little far from organised.
 
