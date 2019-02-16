@@ -15,7 +15,9 @@ One of the most important things to keep your device optimized for better perfor
 
 ## Update Apps: 
 
-In addition to updating software, the next thing you should do is to keep apps up-to-date. While outdated apps could cause various performance issues like crashes, hangs, freezes etc., up-to-date apps helps you optimize your device for better performance. To update applications on your device, go to Google Play Store and select My Apps & games from the side menu. Here, you will find all available updates for your apps that you can download.  
+In addition to updating software, the next thing you should do is to keep apps up-to-date. While outdated apps could cause various performance issues like crashes, hangs, freezes etc., up-to-date apps helps you optimize your device for better performance. To update applications on your device, go to Google Play Store and select My Apps & games from the side menu. Here, you will find all available updates for your apps that you can download. 
+
+![Optimise Android]({{ site.baseurl }}/assets/images/optimise-android1.png){style="display: block; margin: 0 auto" }
 
 ## Avoid Live Wallpapers: 
 
