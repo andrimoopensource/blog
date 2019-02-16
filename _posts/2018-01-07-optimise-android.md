@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "How to Optimise Android for Better Performance"
-description: "If your Android device is causing performance issues, then it’s time to optimize it for better performance. Let’s discuss a few simple yet effective ways to do this." 
 author: Team Andrimo
 categories: [ Tutorial, Android Basics ]
 image: {{ site.baseurl }}/assets/images/Optimise Android.png
