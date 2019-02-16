@@ -12,6 +12,11 @@
   float:right;
 }
 
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax"
