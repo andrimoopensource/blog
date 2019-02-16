@@ -11,6 +11,8 @@ Android devices are designed to perform numerous tasks seamlessly. These smartph
 
 One of the most important things to keep your device optimized for better performance includes keeping your device OS up-to-date. Here, you get regular update notifications automatically that helps you keep your device software up-to-date. Thus, you should be proactive to download & install all such updates for better device performance. In case you have missed these automatic updates, then you can do it manually as well. To update your device software manually, head to device Settings > System > Software Update. Here, you will find the latest update available for your device. In case, there is no update available, then it will be mention here. 
 
+![Optimise Android]({{ site.baseurl }}/assets/images/optimise-android1.png)
+
 ## Update Apps: 
 
 In addition to updating software, the next thing you should do is to keep apps up-to-date. While outdated apps could cause various performance issues like crashes, hangs, freezes etc., up-to-date apps helps you optimize your device for better performance. To update applications on your device, go to Google Play Store and select My Apps & games from the side menu. Here, you will find all available updates for your apps that you can download.  
