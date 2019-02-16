@@ -43,6 +43,6 @@ Unnecessary security issues not only threaten your data security, but it also af
 
 Next best solution to optimize your Android device for better performance could be to use an Android cleaner app. These smart cleaning apps work on advanced algorithms to help you deep clean your device and optimize it. Working on powerful scan engines, it can scan and clean all junk data even from the remotest corners of your device storage. You can use these nifty apps to recover lots of precious storage space and optimize your device performance. Find here, if you wish to install these amazing apps on your Android device.
 
-#Conclusion
+## Conclusion
 
 So, these are a few simple tips & tricks you can follow to optimize your Android device for better performance. If you have tried some of these tips or know other ways to boost Android performance, then feel free to comment below. 
