@@ -10,7 +10,7 @@ disqus: 'andrimo'
 mailchimp-list: 'https://eepurl.com/gg6EE5'
 include: ["_pages"]
 permalink: /:title/
-site.url: 'https'
+site.url: 'https://'
 
 # Authors
 authors:
