@@ -4,12 +4,13 @@ description: "All About Android."
 meta_description: "All About Android, we provide free android help and latest android tricks, tips, latest smartphone, gadgets review and more.."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: 'https://'
+baseurl: 
 google_analytics: 'UA-46278016-1'
 disqus: 'andrimo'
 mailchimp-list: 'https://eepurl.com/gg6EE5'
 include: ["_pages"]
 permalink: /:title/
+site.url: 'https://'
 
 # Authors
 authors:
