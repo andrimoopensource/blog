@@ -4,6 +4,8 @@ title: About - Andrimo
 permalink: /about
 comments: false
 ---  
+<div class="row justify-content-between">
+<div class="col-md-8 pr-5">  
 
 Andrimo is a Digital learning platform, here you can learn more about the latest technology, gadgets and how to (Related to Operating System) and we provide all the things and News about android, android gadgets etc. This is Absolutely Free For Everyone. Read more at
 
@@ -19,4 +21,16 @@ We choose the website name Andrimo because this website is fully focused on Andr
 
 ### Do you want to Join Andrimo Team?
 
-If you want to Join the Andrimo Team. Mail your Proposal at team@andrimo.com (Remember Please don’t spam)
+<p> If you want to Join the Andrimo Team. Mail your Proposal at team@andrimo.com (Remember Please don’t spam) </p>
+
+</div>
+
+<div class="col-md-4">
+    
+<div class="sticky-top sticky-top-80">
+
+{% include advertisements.html %}
+
+</div>
+</div>
+</div>
