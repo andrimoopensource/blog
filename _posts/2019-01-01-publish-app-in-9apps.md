@@ -59,7 +59,7 @@ image: assets/images/how-to-publish-android-application-in-9apps.jpg
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-If you want to create website like this then checkout [this article](https://www.rahulit.com/how-to-create-a-website-free-of-cost/){:rel="nofollow"}{:target="_blank"} 
+If you want to create website like this then checkout [this article](https://www.rahulit.com/how-to-create-a-website-free-of-cost/){:target="_blank"} 
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
