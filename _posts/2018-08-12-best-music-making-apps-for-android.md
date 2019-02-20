@@ -5,6 +5,7 @@ author: Team Andrimo
 categories: [ Apps ]
 image: assets/images/best-music-making-apps-for-android.jpeg
 ---
+{% include advertisements.html %}
 
 Are you looking for the Best Music Making Apps for Android then this article is especially for you. All person have own smartphone 90% Android users but if you want some amazing things like music editing or music making so you want to install apps to use this features.
 
@@ -154,3 +155,5 @@ Top Features:
 ## Conclusion:
 
 I hope you guys like this article. If you have any question or suggestion then please include in the comment.
+
+{% include advertisements.html %}
