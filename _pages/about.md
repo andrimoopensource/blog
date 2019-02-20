@@ -11,15 +11,15 @@ comments: false
 
 At this time we could not show our Team Image or the name because the work is hidden by the owner of this website. </p>
 
-<h2> What is Andrimo? </h2>
+<h3> What is Andrimo? </h3>
 
 <p> Andrimo is an online learning website. In Andrimo.com you can see all articles related to Android or Android apps, Android games, Gadgets that means this website is focused only on Android and then on gadgets or Tech interested readers. </p>
 
-<h2> Why we choose this website name Andrimo? </h2>
+<h3> Why we choose this website name Andrimo? </h3>
 
 <p> We choose the website name Andrimo because this website is fully focused on Android or Gadgets and then Technology. </p>
 
-<h2> Do you want to Join Andrimo Team? </h2>
+<h3> Do you want to Join Andrimo Team? </h3>
 
 <p> If you want to Join the Andrimo Team. Mail your Proposal at team@andrimo.com (Remember Please don’t spam) </p>
 
