@@ -8,7 +8,6 @@ image: https://www.andrimo.com/assets/images/android-system-web-view.jpg
 featured: true
 hidden: true
 ---
-{% include advertisements.html %}
 
 If you are the android user then you must be seen Android System Webview App on your Android smartphone or Tab. Do you know what is System Webview and Why this app is Pre-installed on every android device?
 
