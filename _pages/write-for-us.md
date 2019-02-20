@@ -12,7 +12,7 @@ comments: false
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/edit-andrimo-article.png" alt="How to edit andrimo article" /></p>
 
-<h2> Guidelince for Publishing Article </h2>
+<h3> Guidelince for Publishing Article </h3>
 
 <li> Article Must Be Natural </li>
 <li> All Links Added in Article is No - Follow </li>
@@ -24,19 +24,19 @@ comments: false
 
 <h2> Faqs </h2>
 
-<h3> How to Submit new article? </h3>
+<h4> How to Submit new article? </h4>
 
 <p> Contact Support Team to Publish New Article at team@andrimo.com </p>
 
-<h3> Can i edit any article in andrimo? </h3>
+<h4> Can i edit any article in andrimo? </h4>
 
 <p> Yes, Anyone can edit any article in this website. If you want to know how to edit article in andrimo then <a href="https://www.andrimo.com/edit-andrimo-article"> checkout this guide </a> </p>
   
-<h3> Can i put links in article? </h3>
+<h4> Can i put links in article? </h4>
 
 <p> Yes, you can put links on Article but do not spam. If you placing only links no content then you can't put links in Andrimo. </p>
 
-<h3> Can i get do - follow link from andrimo? </h3>
+<h4> Can i get do - follow link from andrimo? </h4>
 
 <p> No, Andrimo Does not provide do follow link to external website. </p>
 
