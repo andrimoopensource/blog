@@ -45,18 +45,9 @@ comments: false
 <div class="col-md-4">
     
 <div class="sticky-top sticky-top-80">
-<h5>Donate</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://andrimo.com">Andrimo</a>.</p>
+{% include advertisements.html %}
 
-<form action="https://www.paypal.me/rahulit" method="post">
-
-<!-- Specify a Donate button. -->
-<input type="hidden" name="cmd" value="_donations" />
-
-<!-- Display the payment button. -->
-<input type="image" name="submit" border="0" src="https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif" alt="PayPal - The safer, easier way to pay online" />
-</form>
 </div>
 </div>
 </div>
