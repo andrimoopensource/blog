@@ -1,3 +1,11 @@
+---
+layout: page
+title: About - Andrimo
+permalink: /about
+comments: false
+css: main.scss
+---  
+
 # Andrimo - All About Android
 
 ![Andrimo](assets/images/andrimo-home-page.png)
