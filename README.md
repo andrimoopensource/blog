@@ -1,11 +1,3 @@
----
-layout: page
-title: About - Andrimo
-permalink: /about
-comments: false
-css: main.scss
----  
-
 # Andrimo - All About Android
 
 ![Andrimo](assets/images/andrimo-home-page.png)
@@ -17,6 +9,8 @@ css: main.scss
 Inspired By [Microsoft Documentation](https://docs.microsoft.com)
 
 Important CSS code 
+
+Use this line on the top to use this css code- css: main.scss
 
 <div class="notify"><span class="symbol icon-info"></span> A kind of a notice box !</div> 
 <div class="notify notify-red"><span class="symbol icon-error"></span> Error message</div> 
