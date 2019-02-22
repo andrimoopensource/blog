@@ -13,8 +13,10 @@
 }
 
 .notice {
-    background-color: 8BFFE3;
-	}
+  color: #ffff;
+  background-color: #A067AB;
+  background-image: linear-gradient(120deg, #5073B8, #A067AB);
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
