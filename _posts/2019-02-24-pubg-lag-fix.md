@@ -36,7 +36,7 @@ The Fifth Tips i have for you is if your device is low FPS then i prefer you to 
 
 ## Conclusion
 
-<iframe width="1280" height="720"
+<iframe width="420" height="315"
 src="https://youtu.be/t6N7LvOL590">
 </iframe>
 
