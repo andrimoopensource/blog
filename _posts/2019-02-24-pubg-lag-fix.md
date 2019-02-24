@@ -10,4 +10,4 @@ image: assets/images/Pubg-Lag-Fix.jpg
 
 Is your Smartphone Lagging when you play PUBG mobile. Don't worry today in this article i will show you Advanced Tactics to Pubg Lag Fix. So lets dive in this tutorail and bye-bye lag again from device.
 
-PUBG Mobile is one of the Best and Trending game for smartphone. First you need to [Optimise your android device](https://www.andrimo.com/optimise-android/){:_blank} for run PUBG Smoothly.
+PUBG Mobile is one of the Best and Trending game for smartphone. But the main Problem of PUBG mobile is lag, If your device have low specifications then you also fased lagging issue. First I prefer you to check this basic guide for [Optimise your android device](https://www.andrimo.com/optimise-android/) for run PUBG Smoothly.
