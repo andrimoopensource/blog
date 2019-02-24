@@ -3,7 +3,7 @@ layout: post
 title:  "Advanced Tactics to Pubg Lag Fix [2019 Updated]"
 author: Team Andrimo
 categories: [ Tutorial,Games ]
-image: 
+image: assets/images/Pubg-Lag-Fix.jpg
 ---
 
 <div class="notify notify-yellow"><span class="symbol icon-excl"></span> This Article needs improvement. <a href="https://www.andrimo.com/edit-andrimo-article" target="_blank" >Please Edit and Update Article.</a></div>
