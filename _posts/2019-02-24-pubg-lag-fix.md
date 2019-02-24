@@ -18,4 +18,20 @@ PUBG Mobile is one of the Best and Trending game for smartphone. But the main Pr
  
 The First Tips I have for you is Update Android Device, If your Android Version is old then your device run like choppy in big files. So, I prefer you to first Update your android version (if an update available).
 
+### 2. Use Android Cleaner
+
+The Second Tips i have for you is use android cleaner to clear cache and cookies, remove junk data and duplicate file that speed up your device. I prefer you to use any android cleaner. 
+
+### 3. Reduce Frame Rate 
+
+The Third Tips i have for you is Reduce Frame Rate of PUBG Mobile. Frame Rate takes more CPU and RAM in Device, So if you reduce frame rate of PUBG mobile then your PUBG run Freely.
+
+### 4. Graphics
+
+The Fourth Tips i have for you is Reduce graphics of PUBG Mobile if your Pubg mobile is lagging, then reduce graphics to fix lag.
+
+## Conclusion
+
+If you apply all four tips in your android device then your pubg is running smoothly. So the next pro of PUBG mobile is you.
+
 
