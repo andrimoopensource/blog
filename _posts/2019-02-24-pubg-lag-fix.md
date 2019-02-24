@@ -30,6 +30,10 @@ The Third Tips i have for you is Reduce Frame Rate of PUBG Mobile. Frame Rate ta
 
 The Fourth Tips i have for you is Reduce graphics of PUBG Mobile if your Pubg mobile is lagging, then reduce graphics to fix lag.
 
+### 5. Enable Auto Adjust Graphics
+
+The Fifth Tips i have for you is if your device is low FPS then i prefer you to Enable Auto Adjust Graphics.
+
 ## Conclusion
 
 If you apply all four tips in your android device then your pubg is running smoothly. So the next pro of PUBG mobile is you.
