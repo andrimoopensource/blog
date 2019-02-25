@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "how to download movies in mobile"
+title:  "How to download movies in mobile"
 author: Team Andrimo
 categories: [ Tutorial ]
 image: assets/images/how-to-download-movies-in-mobile.jpg
