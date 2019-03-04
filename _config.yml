@@ -38,7 +38,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-sitemap
-  - amp-jekyll
+  - jekyll-feed
     
 # Archives
 jekyll-archives:
