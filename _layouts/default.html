@@ -23,7 +23,6 @@
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
     
 </head>
-	<meta name="google-site-verification" content="i8K1KMA_BodwOxLVyDlLQ7QeWrwq5PZI_YC76Rwuskw" />
     
 {% if jekyll.environment == 'production' %}    
 <!-- change your GA id in _config.yml -->
@@ -80,28 +79,16 @@ ga('send', 'pageview');
                 <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
                 
-                {% if page.url == "/contact.html" %}
-                <li class="nav-item active">
-                {% else %}
                 <li class="nav-item">
-                {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/contact">Contact</a>
+                <a class="nav-link" href="https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip"><i class="fas fa-download"></i> Download</a>
                 </li>
                 
-               {% if page.url == "/privacy-policy.html" %}
-                <li class="nav-item active">
-                {% else %}
                 <li class="nav-item">
-                {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/privacy-policy">Privacy Policy</a>
+                <a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mediumish-wordpress/"><i class="fab fa-wordpress-simple"></i> WP Version</a>
                 </li>
                 
-                {% if page.url == "/write-for-us.html" %}
-                <li class="nav-item active">
-                {% else %}
                 <li class="nav-item">
-                {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/write-for-us">Write For Us</a>
+                <a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mediumish-ghost/"><i class="fab fa-snapchat-ghost"></i> Ghost Version</a>
                 </li>
                 
                 {% include search-lunr.html %}
@@ -156,8 +143,8 @@ ga('send', 'pageview');
 </div>    
 {% endif %}
     
-</div><!-- /.container>
-    
+</div>
+
 <!-- Categories Jumbotron
 ================================================== -->
 <div class="jumbotron fortags">
@@ -170,18 +157,23 @@ ga('send', 'pageview');
 		<div class="col-md-8 p-5 align-self-center text-center">      
             {% assign categories_list = site.categories %}
             {% if categories_list.first[0] == null %}
-            {% for category in categories_list %}
-            <a href="{{site.baseurl}}/categories#{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
-            {% endfor %}
+                {% for category in categories_list %}
+                    <a href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
+                {% endfor %}
             {% else %}
-            {% for category in categories_list %}
-            <a href="{{site.baseurl}}/categories#{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a>
-            {% endfor %}
+                {% for category in categories_list %}                        
+                    <a href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a>
+                {% endfor %}
             {% endif %}
             {% assign categories_list = nil %}
 		</div>
+        
+
+        
 	</div>
 </div>
+    
+
  
 
 
@@ -192,7 +184,10 @@ ga('send', 'pageview');
         <div class="row">
             <div class="col-md-6 col-sm-6 text-center text-lg-left">
                  Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
-		</div>
+            </div>
+            <div class="col-md-6 col-sm-6 text-center text-lg-right">    
+                <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net
+            </div>
         </div>
     </div>
 </footer>
@@ -200,7 +195,7 @@ ga('send', 'pageview');
 ================================================== -->
 
    
-</div> <!-- /.site-content>
+</div> <!-- /.site-content -->
 
 <!-- Scripts
 ================================================== -->
@@ -214,12 +209,6 @@ ga('send', 'pageview');
 <script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script> 
     
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
-	
-	<script type="text/javascript">
-  var subscribersSiteId = 'ae4c7804-7055-4f75-9d5b-084c0521b022';
-</script>
-<script type="text/javascript" src="https://cdn.subscribers.com/assets/subscribers.js"></script>
-
     
 </body>
 </html>
