@@ -6,6 +6,7 @@ description: If you are the android user then you must be seen Android System We
 categories: [ Android Basics ]
 image: https://www.andrimo.com/assets/images/android-system-web-view.jpg
 featured: true
+rating: 4.5
 hidden: true
 ---
 
