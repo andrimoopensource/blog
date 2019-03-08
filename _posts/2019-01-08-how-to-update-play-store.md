@@ -4,6 +4,8 @@ title:  "How to Update Play Store Officially – Brief Guide About Play Store Up
 author: Team Andrimo
 categories: [ Tutorial ]
 image: assets/images/how-to-update-play-store.jpg
+redirect_to:
+  - https://android.andrimo.com/how-to-update-play-store/
 ---
 {% include advertisements.html %}
 
