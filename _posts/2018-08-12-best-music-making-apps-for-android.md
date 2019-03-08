@@ -4,6 +4,8 @@ title:  "Best Music Making Apps for Android Must Check (UPDATED)"
 author: Team Andrimo
 categories: [ Apps ]
 image: assets/images/best-music-making-apps-for-android.jpeg
+redirect_to:
+  - https://android.andrimo.com/best-music-making-apps-for-android/
 ---
 {% include advertisements.html %}
 
