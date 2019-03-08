@@ -39,6 +39,7 @@ plugins:
   - jekyll-archives
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-redirect-from
     
 # Archives
 jekyll-archives:
