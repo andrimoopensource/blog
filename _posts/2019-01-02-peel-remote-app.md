@@ -4,6 +4,8 @@ title:  "Reduce the Remote Clutter with Peel Remote App"
 author: Team Andrimo
 categories: [ Review ]
 image: assets/images/peel-remote-app.jpg
+redirect_to:
+  - https://tech.andrimo.com/peel-remote-app/
 ---
 {% include advertisements.html %}
 
