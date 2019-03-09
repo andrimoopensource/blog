@@ -5,8 +5,7 @@ description: Advanced Tactics to Pubg Lag Fix. So lets dive in this tutorail and
 author: Team Andrimo
 categories: [ Tutorial,Games ]
 image: assets/images/Pubg-Lag-Fix.jpg
-redirect_to:
-  - https://android.andrimo.com/pubg-lag-fix/
+rating: 5
 ---
 {% include advertisements.html %}
 
