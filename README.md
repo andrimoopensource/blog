@@ -1,26 +1,24 @@
-# Andrimo - All About Android
+# Mediumish - Jekyll Theme
 
-![Andrimo](assets/images/andrimo-home-page.png)
+![mediumish](assets/images/mediumish-jekyll-template.png)
 
 ### Details
 
-[Website](https://www.andrimo.com/) &nbsp; | &nbsp; [How to Edit Andrimo Article](https://www.andrimo.com/edit-andrimo-article) &nbsp; | &nbsp; [About](https://www.andrimo.com/about) &nbsp; |
-
-Inspired By [Microsoft Documentation](https://docs.microsoft.com)
-
-Important CSS code 
-
-Use this line on the top to use this css code- css: main.scss
-
-<div class="notify"><span class="symbol icon-info"></span> A kind of a notice box !</div> 
-<div class="notify notify-red"><span class="symbol icon-error"></span> Error message</div> 
-<div class="notify notify-green"><span class="symbol icon-tick"></span> A positive/success/completion message</div> 
-<div class="notify notify-yellow"><span class="symbol icon-excl"></span> A warning message</div>
+[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Features](https://wowthemesnet.github.io/mediumish-theme-jekyll/about#features) &nbsp; |  &nbsp; [Documentation](https://wowthemesnet.github.io/mediumish-theme-jekyll/about#usingmediumish) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
 
 ### Copyright
 
-Copyright (C) 2019 Andrimo, https://www.andrimo.com
+Copyright (C) 2019 Sal, https://www.wowthemes.net
 
-Andrimo used this design under MIT license. 
+**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
+
+<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+### Contribute
+
+1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
+2. Clone a copy of your fork on your local
+3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
+4. Make necessary changes, commit, push and open a pull request on GitHub.
 
 Thank you!
