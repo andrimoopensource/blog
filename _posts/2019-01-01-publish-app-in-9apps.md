@@ -4,8 +4,6 @@ title:  "How to Publish Android Application in 9apps"
 author: Team Andrimo
 categories: [ Tutorial ]
 image: assets/images/how-to-publish-android-application-in-9apps.jpg
-redirect_to:
-  - https://tech.andrimo.com/publish-app-in-9apps/
 
 ---
 {% include advertisements.html %}
