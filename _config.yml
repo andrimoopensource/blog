@@ -1,27 +1,27 @@
 # Site
-name: "Andrimo"
-description: "All About Android."
-meta_description: "All About Android, we provide free android help and latest android tricks, tips, latest smartphone, gadgets review and more.."
+name: "Mediumish"
+title: "Mediumish"
+description: "Jekyll Template for Blogging"
+meta_description: "Jekyll template, Medium styled, free for bloggers."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: 
-google_analytics: 'UA-135019824-1'
-disqus: 'andrimo'
-mailchimp-list: 'https://eepurl.com/gg6EE5'
+baseurl: /mediumish-theme-jekyll
+google_analytics: 'UA-46278016-1'
+disqus: 'demowebsite'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-site.url: 'https://'
 
 # Authors
 authors:
-  Team Andrimo:
-    name: Team Andrimo
-    display_name: Team Andrimo
-    gravatar: f5114248b51ae98a7bbe5ef430c5a164
-    email: team@andrimo.com
-    web: https://www.andrimo.com
-    twitter: https://twitter.com/andrimoblog
-    description: "Author of Andrimo, A Offical Publisher of Andrimo. Publish Article on Weekly Basis"
+  sal:
+    name: Sal
+    display_name: Sal
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net
+    twitter: https://twitter.com/wowthemesnet
+    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
     name: John
     display_name: John
@@ -34,12 +34,10 @@ authors:
 # Plugins
 plugins: 
   - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-redirect-from
     
 # Archives
 jekyll-archives:
@@ -55,4 +53,10 @@ paginate_path: /page:num/
     
 # Other
 markdown: kramdown
-highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true

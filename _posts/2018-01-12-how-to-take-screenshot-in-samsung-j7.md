@@ -4,6 +4,8 @@ title:  "How to take screenshot in samsung j7 – Step by Step method"
 author: Team Andrimo
 categories: [ Tutorial ]
 image: assets/images/how-to-take-screenshot-in-samsung-j7.jpg
+redirect_to:
+  - https://gadgets.andrimo.com/how-to-take-screenshot-in-samsung-j7/
 ---
 {% include advertisements.html %}
 
