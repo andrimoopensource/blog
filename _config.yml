@@ -1,7 +1,7 @@
 # Site
-name: "Gadgets News"
-description: "All About Gadgets, Gadgets Tips & Gadgets News."
-meta_description: "All About Gadgets, Gadgets Tips & Gadgets News and more.."
+name: "Andrimo"
+description: "About Gadgets & Android."
+meta_description: "All About Gadgets, Gadgets Tips & Gadgets News and Android.."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
