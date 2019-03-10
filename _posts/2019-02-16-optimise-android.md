@@ -14,7 +14,8 @@ Android devices are designed to perform numerous tasks seamlessly. These smartph
 ## Update your OS: 
 
 <p align="center">
-    <img src="{{ site.baseurl }}/assets/images/optimise-android1.png" alt="Optimise Android">
+    <img src="{{ site.baseurl }}/assets/images/optimise-android1.png" alt="Optimise Android" data-echo="{{ site.baseurl }}/assets/images/optimise-android2.png">
+
 </p>
 
 One of the most important things to keep your device optimized for better performance includes keeping your device OS up-to-date. Here, you get regular update notifications automatically that helps you keep your device software up-to-date. Thus, you should be proactive to download & install all such updates for better device performance. In case you have missed these automatic updates, then you can do it manually as well. To update your device software manually, head to device Settings > System > Software Update. Here, you will find the latest update available for your device. In case, there is no update available, then it will be mention here. 
@@ -75,4 +76,4 @@ Next best solution to optimize your Android device for better performance could 
 
 So, these are a few simple tips & tricks you can follow to optimize your Android device for better performance. If you have tried some of these tips or know other ways to boost Android performance, then feel free to comment below. 
 
-{% include advertisements.html %}
+{% include lazyload.html %}
