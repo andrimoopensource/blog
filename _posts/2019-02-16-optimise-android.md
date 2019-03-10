@@ -8,14 +8,13 @@ image: https://www.andrimo.com/assets/images/Optimise-Android.png
 featured: true
 hidden: true
 ---
-{% include lazyload.html %}
 
 Android devices are designed to perform numerous tasks seamlessly. These smartphone devices are not limited to make & receive calls, but you can use these powerful machines to perform abundant tasks in an effortless manner. These devices also work as a powerful storage device where you can store all your valuable data in a secure manner. While these devices work smoothly in the beginning, it starts showing performance issues over time due to extensive usage. To deal with this problem, here, we have discussed a few simple yet effective ways to help you optimize your Android device for better performance. 
 
 ## Update your OS: 
 
 <p align="center">
-    <img src="{{ site.baseurl }}/assets/images/optimise-android1.png" alt="Optimise Android" data-echo="https://i0.wp.com/www.rahulit.com/wp-content/uploads/2019/03/How-to-Delete-a-Page-in-Word_.jpg">
+    <img src="{{ site.baseurl }}/assets/images/optimise-android1.png" alt="Optimise Android">
 </p>
 
 One of the most important things to keep your device optimized for better performance includes keeping your device OS up-to-date. Here, you get regular update notifications automatically that helps you keep your device software up-to-date. Thus, you should be proactive to download & install all such updates for better device performance. In case you have missed these automatic updates, then you can do it manually as well. To update your device software manually, head to device Settings > System > Software Update. Here, you will find the latest update available for your device. In case, there is no update available, then it will be mention here. 
