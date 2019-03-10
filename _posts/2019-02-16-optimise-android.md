@@ -14,7 +14,7 @@ Android devices are designed to perform numerous tasks seamlessly. These smartph
 ## Update your OS: 
 
 <p align="center">
-    <img src="{{ site.baseurl }}/assets/images/optimise-android1.png" alt="Optimise Android" data-echo="{{ site.baseurl }}/assets/images/optimise-android2.png">
+    <img src="{{ site.baseurl }}/assets/images/optimise-android1.png" alt="Optimise Android" data-echo="https://i0.wp.com/www.rahulit.com/wp-content/uploads/2019/03/How-to-Delete-a-Page-in-Word_.jpg">
 
 </p>
 
