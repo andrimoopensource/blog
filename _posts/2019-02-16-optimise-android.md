@@ -14,7 +14,7 @@ Android devices are designed to perform numerous tasks seamlessly. These smartph
 ## Update your OS: 
 
 <p align="center">
-    <img src="{{ site.baseurl }}/assets/images/optimise-android1.png" alt="Optimise Android" data-echo="https://i0.wp.com/www.rahulit.com/wp-content/uploads/2019/03/How-to-Delete-a-Page-in-Word_.jpg">
+    <img src="{{ site.baseurl }}/assets/images/optimise-android1.png" alt="Optimise Android" >
 
 </p>
 
@@ -76,4 +76,4 @@ Next best solution to optimize your Android device for better performance could 
 
 So, these are a few simple tips & tricks you can follow to optimize your Android device for better performance. If you have tried some of these tips or know other ways to boost Android performance, then feel free to comment below. 
 
-{% include lazyload.html %}
+{% include advertisement.html %}
