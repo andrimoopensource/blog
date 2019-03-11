@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About - Andrimo
+title: About
 permalink: /about
 comments: false
 ---  
