@@ -49,15 +49,6 @@
 .notify-red { background: #ffecec; border-color: #fad9d7; }
 .notify-green { background: #e9ffd9; border-color: #D1FAB6; }
 
-img {
-  background: #F1F1FA;
-  width: 400px;
-  height: 300px;
-  display: block;
-  margin: 10px auto;
-  border: 0;
-}
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax",
