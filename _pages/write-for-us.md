@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Write For Us - Andrimo
+title: Write For Us 
 permalink: /write-for-us
 comments: false
 ---  
