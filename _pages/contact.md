@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact - Andrimo
+title: Contact
 permalink: /contact
 comments: false
 ---  
