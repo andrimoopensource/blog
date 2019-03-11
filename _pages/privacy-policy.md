@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy - Andrimo
+title: Privacy Policy
 permalink: /privacy-policy
 comments: false
 ---  
