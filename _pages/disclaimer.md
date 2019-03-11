@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Disclaimer - Andrimo
+title: Disclaimer
 permalink: /disclaimer
 comments: false
 ---  
