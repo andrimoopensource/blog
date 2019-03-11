@@ -74,6 +74,6 @@ Next best solution to optimize your Android device for better performance could 
 
 ## Conclusion
 
-So, these are a few simple tips & tricks you can follow to optimize your Android device for better performance. If you have tried some of these tips or know other ways to boost Android performance, then feel free to comment below. 
+So, these are a few simple tips & tricks you can follow to optimize your Android device for better performance. If you have tried some of these tips or know other ways to boost Android performance, then feel free to comment in the comment box.
 
 {% include advertisement.html %}
