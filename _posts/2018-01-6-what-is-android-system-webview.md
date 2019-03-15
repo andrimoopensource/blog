@@ -36,7 +36,7 @@ When you disable Webview App you can see you all app data will be reset. When yo
 
 Read More About Developing Webview App By Google
 
-If you want to create a website like this then see [How to create a website free of cost](https://redirect.andrimo.com/htcawfoc){:blank}
+If you want to create a website like this then see [How to create a website free of cost](https://redirect.andrimo.com/htcawfoc){:target="_blank"}
 
 ## Conclusion:
 
