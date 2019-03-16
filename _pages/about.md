@@ -9,9 +9,9 @@ comments: false
 
 <p> Andrimo is a Digital learning platform, here you can learn more about the latest technology, gadgets and how to (Related to Operating System) and we provide all the things and News about android, android gadgets etc. This is Absolutely Free For Everyone. Read more at
 
-At this time we could not show our Team Image or the name because the work is hidden by the owner of this website.
+At this time we could not show our Team Image or the name because the work is hidden by the owner of this website. </p>
 
-We have own URL Shortner http://redirect.andrimo.com </p>
+<p> We have own URL Shortner <a href="http://redirect.andrimo.com"> </p>
 
 <h3> What is Andrimo? </h3>
 
