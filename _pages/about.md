@@ -11,7 +11,7 @@ comments: false
 
 At this time we could not show our Team Image or the name because the work is hidden by the owner of this website. </p>
 
-<p> We have own URL Shortner <a href="http://redirect.andrimo.com"> </p>
+<p> We have own URL Shortner <a href="http://redirect.andrimo.com">redirect.andrimo.com</a> </p>
 
 <h3> What is Andrimo? </h3>
 
