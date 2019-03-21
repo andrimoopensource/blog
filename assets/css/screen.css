@@ -295,10 +295,10 @@ License: https://www.wowthemes.net/freebies-license/
  .svgIcon {
      vertical-align:middle;
 }
- .sticky-top-offset {
-     .share {	    top:100px;
-         position:fixed;	}
-         display:block;	 @media (min-width:1024px) {  
+ @media (min-width:1024px) {
+  .share {
+   position:fixed;
+    display:block;
     }
      .share ul li {
          display:block;
