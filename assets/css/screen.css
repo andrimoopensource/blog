@@ -288,10 +288,10 @@ License: https://www.wowthemes.net/freebies-license/
  .svgIcon {
      vertical-align:middle;
 }
- @media (min-width:1024px) {
-     .share {
-         position:fixed;
-         display:block;
+ .sticky-top-offset {
+     .share {	    top:100px;
+         position:fixed;	}
+         display:block;	 @media (min-width:1024px) {  
     }
      .share ul li {
          display:block;
