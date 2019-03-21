@@ -1,7 +1,6 @@
 # Site
 name: "Andrimo"
 description: "About Gadgets & Android."
-meta_description: "All About Gadgets, Gadgets Tips & Gadgets News and Android.."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
