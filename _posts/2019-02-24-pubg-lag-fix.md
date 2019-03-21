@@ -6,6 +6,7 @@ author: Team Andrimo
 categories: [ Tutorial,Games ]
 image: assets/images/Pubg-Lag-Fix.jpg
 rating: 5
+toc: true
 ---
 {% include advertisements.html %}
 
