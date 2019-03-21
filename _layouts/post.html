@@ -1,3 +1,4 @@
+
 ---
 layout: default
 disqus: false
@@ -25,7 +26,7 @@ post_class: post-template
                 <!-- Author Box -->
                 {% if page.author %}				
 				<div class="row post-top-meta">
-						<div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+					<div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
 						<img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
 					</div>
 					<div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
@@ -39,7 +40,8 @@ post_class: post-template
 				<h1 class="posttitle">{{ page.title }}</h1> 
                 
 			</div>
-			            <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+
+            <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
             {% if site.adsense == "enabled" %}
                 {% include adsense-under-header.html %}
             {% endif %}
@@ -48,15 +50,6 @@ post_class: post-template
 			<!-- Post Featured Image -->
 			{% if page.image %}<img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}">{% endif %}
 			<!-- End Featured Image -->
-			
-			 <!-- Toc if any -->
-            {% if page.toc %}
-             <div class="toc mt-5 mb-5 lead">
-             <h3 class="font-weight-bold">Summary</h3>
-             {% include toc.html html=content %}
-             </div>
-            {% endif %}
-            <!-- End Toc -->
 
 			<!-- Post Content -->
 			<div class="article-post">
@@ -82,7 +75,7 @@ post_class: post-template
             
 			<!-- Post Categories -->
 			<div class="after-post-cats">
-				<ul class="tags">					<ul class="tags mb-4">
+				<ul class="tags mb-4">
                     {% assign sortedCategories = page.categories | sort %}
                     {% for category in sortedCategories %}
                     <li>                        
@@ -91,7 +84,20 @@ post_class: post-template
                     {% endfor %}
 				</ul>
 			</div>
-			<!-- End Categories -->
+            <!-- End Categories -->
+            
+            <!-- Post Tags -->
+			<div class="after-post-tags">
+				<ul class="tags">
+                    {% assign sortedTags = page.tags | sort %}
+                    {% for tag in sortedTags %}
+                    <li>                        
+                     <a class="smoothscroll" href="{{site.baseurl}}/tags.html#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
+                    </li>
+                    {% endfor %}
+				</ul>
+			</div>
+			<!-- End Tags -->
             
             <!-- Prev/Next -->
             <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
@@ -113,6 +119,7 @@ post_class: post-template
 <!-- End Article
 ================================================== -->
 
+  
 
 <!-- Begin Comments
 ================================================== -->
