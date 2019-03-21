@@ -125,14 +125,13 @@ License: https://www.wowthemes.net/freebies-license/
 }
  .wrapfooter {
      font-size:12px;
-  display: flex;
+     display: flex;
      align-items: center;
      margin-bottom: 15px;
 }
  .author-thumb {
      width:40px;
      height:40px;
-     float:left;
      margin-right:13px;
      border-radius:100%;
 }
@@ -296,10 +295,9 @@ License: https://www.wowthemes.net/freebies-license/
      vertical-align:middle;
 }
 .sticky-top-offset {
-  top:100px;
-} 
-@media (min-width:1024px) {  
-
+    top:100px;
+}
+ @media (min-width:1024px) {    
      .share ul li {
          display:block;
     }
