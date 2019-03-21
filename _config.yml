@@ -54,6 +54,6 @@ kramdown:
       line_numbers: true
 
 # Adsense
-adsense: "enabled"
+adsense: "disabled"
 adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
