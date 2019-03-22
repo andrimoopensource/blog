@@ -8,6 +8,7 @@ image: https://www.andrimo.com/assets/images/Optimise-Android.png
 featured: true
 hidden: true
 toc: true
+beforetoc: "Do you want to know how to optimise android? If yes then this tutorial is especially for you."
 tags: [ optimise android, how to optimise android ]
 ---
 
