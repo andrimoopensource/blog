@@ -122,6 +122,24 @@ License: https://www.wowthemes.net/freebies-license/
      font-size:0.95rem;
      line-height:1.6;
      font-weight:400;
+  
+  }
+.featured-box-img-cover {
+    object-fit: cover;
+    width: 221px;
+    height: 290px;
+    max-height:100%;
+}
+@media (max-width: 1199px) {    
+    .featured-box-img-cover {
+        height: 333px;
+    }
+}
+@media (max-width:991px) {
+    .featured-box-img-cover {
+        height: auto;
+        width:100%;
+    }
 }
  .wrapfooter {
      font-size:12px;
