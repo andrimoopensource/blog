@@ -53,9 +53,9 @@ kramdown:
       line_numbers: true
 
 # Adsense
-adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
+adsense: "enabled"
+adsense-data-ad-client: "ca-pub-1586569966155744"
+adsense-data-ad-slot: "2237086962"
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "enabled"
