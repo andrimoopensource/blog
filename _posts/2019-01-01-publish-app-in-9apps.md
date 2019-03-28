@@ -6,8 +6,6 @@ categories: [ Tutorial ]
 image: assets/images/how-to-publish-android-application-in-9apps.jpg
 toc: true
 ---
-{% include advertisements.html %}
-
 <!-- wp:paragraph -->
 <p>If you want to Publish App in 9Apps then this article is especially for you because in this article <g class="gr_ gr_6 gr-alert gr_tiny gr_spell gr_inline_cards gr_run_anim ContextualSpelling multiReplace" id="6" data-gr-id="6">i</g> will show you how to publish <g class="gr_ gr_15 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins doubleReplace replaceWithoutSep" id="15" data-gr-id="15">application</g> in 9Apps</p>
 <!-- /wp:paragraph -->
