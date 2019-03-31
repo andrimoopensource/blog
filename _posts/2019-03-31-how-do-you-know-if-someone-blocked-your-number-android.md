@@ -13,4 +13,4 @@ toc: true
 
 ## Busy Tone Every Time
 
-When you calling from your phone you will get busy tone every time (Do not judge in single call) that means he blocked you via simple call block. 
+When you calling from your phone you will get busy tone every time on any number (Do not judge in single call) that means he blocked you via simple call block. 
