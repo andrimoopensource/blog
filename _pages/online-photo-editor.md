@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Online Photo Editor
 permalink: /online-photo-editor
 comments: false
 ---  
@@ -9,7 +9,7 @@ comments: false
 
 <p> Online Photo Editor is a Free Basic Photo Editing Tool, that helps you to edit photo without downloading any heavy application. This Needs only Browser (Chrome, Safari, Mozilla Firefox)</p>
 
-<a href="https://onlinephotoeditor.andrimo.com/">Edit Photo</a>
+<a href="https://onlinephotoeditor.andrimo.com/">Start Editing</a>
 
 </div>
 
