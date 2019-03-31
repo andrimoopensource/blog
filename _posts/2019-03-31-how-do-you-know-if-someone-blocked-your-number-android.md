@@ -11,3 +11,6 @@ beforetoc: At this time there is no application available that shows you the det
 toc: true
 ---
 
+## Busy Tone Every Time
+
+When you calling from your phone you will get busy tone every time (Do not judge in single call) that means he blocked you via simple call block. 
