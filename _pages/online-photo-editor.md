@@ -14,16 +14,16 @@ Online-Photo-Editor.png" alt="Online Photo Editor" /></p>
 
 Features of Online Photo Editor Tool:
 
-<ol> Add Filter <ol>
-<ol> Resize Image <ol>
-<ol> Crop Image <ol>
-<ol> Draw Anything in Image <ol>
-<ol> Add Text   <ol>
-<ol> Use Shapes <ol>
-<ol> Use Stiker <ol>
-<ol> Add Frame in Image <ol>
-<ol> Add Backgroung Color / Texture and more <ol>
-<ol> Edit Corner of Image or Design Corner <ol>
+<li> Add Filter <li>
+<li> Resize Image <li>
+<li> Crop Image <li>
+<li> Draw Anything in Image <li>
+<li> Add Text   <li>
+<li> Use Shapes <li>
+<li> Use Stiker <li>
+<li> Add Frame in Image <li>
+<li> Add Backgroung Color / Texture and more <li>
+<li> Edit Corner of Image or Design Corner <li>
  
  
 
