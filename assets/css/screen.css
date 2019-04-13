@@ -731,6 +731,6 @@ License: https://www.wowthemes.net/freebies-license/
 /***** Our Partner ****/
 
 .partner {
-	margin:10px;
+	max-width: 35%;
 	padding-left: 540px;
 }
