@@ -49,6 +49,11 @@
 .notify-red { background: #ffecec; border-color: #fad9d7; }
 .notify-green { background: #e9ffd9; border-color: #D1FAB6; }
 
+.partner {
+	margin:10px;
+	padding:10px 10px 10px 10px;
+}
+
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
