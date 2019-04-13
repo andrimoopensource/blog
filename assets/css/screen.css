@@ -727,3 +727,8 @@ License: https://www.wowthemes.net/freebies-license/
   opacity: 0;
   transition: opacity .25s;
 }
+
+.partner {
+	margin:10px;
+	padding-left: 540px;
+}
