@@ -39,8 +39,6 @@ In addition to updating software, the next thing you should do is to keep apps u
 
 Live wallpapers may look beautiful aesthetically, but it consumes lot of device resources. It could cause serious performance issues when you are already running short on device resources. Thus, it is advisable to avoid live wallpapers to avoid unnecessary performance issues. To disable live wallpaper, go to device Settings > Display > Wallpaper. Here, changes live wallpaper to normal wallpaper.
 
-{% include article-ads.html %} 
-
 ## Clear Cache Data: 
 
 <p align="center">
