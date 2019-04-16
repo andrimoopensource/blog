@@ -5,6 +5,8 @@ author: Team Andrimo
 categories: [ Review ]
 image: assets/images/peel-remote-app.jpg
 ---
+<link rel="amphtml" href="https://amp.andrimo.com/peel-remote-app/">
+
 Home technology is continuously advancing and with that, the number of smart devices is increasing too. As much it these remote-controlled devices aim to bring convenience to our lives, having to manage multiple remotes somewhere does the opposite. Moreover, they end up creating a clutter on the table which can make your room little far from organised.
 
 Universal remote controls, when introduced a few years ago, proved to be a good respite against the challenge of having to manage so many remotes at once. However, the relief was shorter than expected. Although these plastic traditional remotes have all the functions that most of the remotes combinedly have, handling them is more difficult than understood initially.
