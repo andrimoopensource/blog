@@ -5,6 +5,8 @@ author: Team Andrimo
 categories: [ Tutorial ]
 image: assets/images/how-to-take-screenshot-in-samsung-j7.jpg
 ---
+<link rel="amphtml" href="https://amp.andrimo.com/how-to-take-screenshot-in-samsung-j7/">
+
 Are you looking for How to take screenshot in Samsung j7 ?it means you have Samsung galaxy j7 device first congrats for that, Now come to the topic it’s very easy to take a screenshot on Samsung galaxy j7 follow the simple steps that are listed below.
 
 ## Here is How to take screenshot in Samsung j7:
