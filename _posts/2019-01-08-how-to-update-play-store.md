@@ -6,6 +6,7 @@ categories: [ Tutorial ]
 image: assets/images/how-to-update-play-store.jpg
 toc: true
 ---
+<link rel="amphtml" href="https://m.andrimo.com/how-to-update-play-store">
 
 Are you looking for how to update the play store? then in this article, I will show you how to update the play store or play store update. So let’s began this brief guide about play store update.
 
