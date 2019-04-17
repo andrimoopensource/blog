@@ -11,7 +11,7 @@ beforetoc: At this time there is no application available that shows you the det
 toc: true
 css: main.scss
 ---
-<link rel="amphtml" href="https://amp.andrimo.com/how-do-you-know-if-someone-blocked-your-number-android/">
+<link rel="amphtml" href="https://m.andrimo.com/how-do-you-know-if-someone-blocked-your-number-android/">
 
 It is possible that someone use the Call blocking feature on his Android SmartPhone to block your calls. Sometimes the person add your number in block list mistakely.
 
