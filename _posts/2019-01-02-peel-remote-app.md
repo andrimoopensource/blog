@@ -5,7 +5,7 @@ author: Team Andrimo
 categories: [ Review ]
 image: assets/images/peel-remote-app.jpg
 ---
-<link rel="amphtml" href="https://amp.andrimo.com/peel-remote-app/">
+<link rel="amphtml" href="https://m.andrimo.com/peel-remote-app/">
 
 Home technology is continuously advancing and with that, the number of smart devices is increasing too. As much it these remote-controlled devices aim to bring convenience to our lives, having to manage multiple remotes somewhere does the opposite. Moreover, they end up creating a clutter on the table which can make your room little far from organised.
 
