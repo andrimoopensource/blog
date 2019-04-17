@@ -11,7 +11,7 @@ hidden: true
 tags: [what is Android system webview, Android system webview]
 toc: true
 ---
-<link rel="amphtml" href="https://amp.andrimo.com/what-is-android-system-webview/">
+<link rel="amphtml" href="https://m.andrimo.com/what-is-android-system-webview/">
 
 If you are the android user then you must be seen Android System Webview App on your Android smartphone or Tab. Do you know what is System Webview and Why this app is Pre-installed on every android device?
 
