@@ -8,7 +8,7 @@ image: assets/images/Pubg-Lag-Fix.jpg
 rating: 5
 toc: true
 ---
-<link rel="amphtml" href="https://amp.andrimo.com/pubg-lag-fix">
+<link rel="amphtml" href="https://m.andrimo.com/pubg-lag-fix">
 
 Is your Smartphone Lagging when you play PUBG mobile. Don't worry today in this article i will show you Advanced Tactics to Pubg Lag Fix. So lets dive in this tutorail and bye-bye lag again from device.
 
