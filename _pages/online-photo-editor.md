@@ -14,7 +14,7 @@ Online-Photo-Editor.png" alt="Online Photo Editor" /></p>
 
 <h3> Features of Online Photo Editor Tool: </h3>
 
-<li> Add Filter <li>
+<ol> Add Filter <ol>
 <li> Resize Image <li>
 <li> Crop Image <li>
 <li> Draw Anything in Image <li>
