@@ -27,7 +27,7 @@ Online-Photo-Editor.png" alt="Online Photo Editor" /></p>
 
 <p> </p>
 
-<h3> Extra Feature that our visitor love </h3> 
+<h3> Extra Feature that our visitors love </h3> 
 
 <li> No SignUP </li>
 <li> No LogIN </li>
