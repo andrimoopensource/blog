@@ -7,7 +7,7 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">  
 
-<p> Online Photo Editor is a Free Basic Photo Editing Tool, that helps you to edit photo without downloading any heavy application. This Needs only Browser (Chrome, Safari, Mozilla Firefox)</p>
+<p> Online Photo Editor is a ADs Free and Free Advanced Photo Editing Tool, that helps you to edit photo without downloading any heavy application. This Needs only Browser (Chrome, Safari, Mozilla Firefox)</p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/
 Online-Photo-Editor.png" alt="Online Photo Editor" /></p>
@@ -34,7 +34,7 @@ Online-Photo-Editor.png" alt="Online Photo Editor" /></p>
 <li> No ADS </li>
 <li> No Popups </li>
  
-
+<p> </p>
 <h4> <a href="https://onlinephotoeditor.andrimo.com/">Start Editing</a> </h4>
 
 </div>
