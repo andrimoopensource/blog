@@ -6,6 +6,7 @@ description:  If your Android device is causing performance issues, then it’s 
 categories: [ Tutorial ]
 image: https://www.andrimo.com/assets/images/Optimise-Android.png
 featured: true
+rating: 5.0
 hidden: true
 toc: true
 beforetoc: "Do you want to know how to optimize android? If yes then this tutorial is especially for you. "
