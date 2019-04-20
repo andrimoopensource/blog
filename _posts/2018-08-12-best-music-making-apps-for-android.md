@@ -6,7 +6,6 @@ categories: [ Apps ]
 image: assets/images/best-music-making-apps-for-android.jpeg
 toc: true
 ---
-<link rel="amphtml" href="https://m.andrimo.com/best-music-making-apps-for-android/">
 
 Are you looking for the Best Music Making Apps for Android then this article is especially for you. All person have own smartphone 90% Android users but if you want some amazing things like music editing or music making so you want to install apps to use this features.
 
