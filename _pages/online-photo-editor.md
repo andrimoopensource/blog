@@ -12,7 +12,7 @@ comments: false
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/
 Online-Photo-Editor.png" alt="Online Photo Editor" /></p>
 
-Features of Online Photo Editor Tool:
+<h3> Features of Online Photo Editor Tool: </h3>
 
 <li> Add Filter <li>
 <li> Resize Image <li>
@@ -28,8 +28,6 @@ Features of Online Photo Editor Tool:
  
 
 <a href="https://onlinephotoeditor.andrimo.com/">Start Editing</a>
-
-
 
 </div>
 
