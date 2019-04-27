@@ -12,19 +12,19 @@ There are many reasons for deleting the POF Account. If you met with your match,
 
 ## Here is How to delete POF account  on android:
 
-1. Visit the POF site:
+1: Visit the POF site:
 
 The First Step I have for you is open your browser and then visit pof.com 
 
-2. Login with your Account:
+2: Login with your Account:
 
 The Second Step I have for you is Login your account in POF website
 
-3. Go to Help Page:
+3: Go to Help Page:
 
 The Third Step i have for you is go to Help Page after logged in on POF site and then click on Delete Account or Click here.
 
-4. Fill Quick Survey:
+4: Fill Quick Survey:
 
 The Fourth Step i have for you is when you clicked on delete account now you need to tell why you are closing your account, that's why you need to fill quick survey.
 
