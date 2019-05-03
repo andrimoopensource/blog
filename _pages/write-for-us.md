@@ -12,7 +12,7 @@ comments: false
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/edit-andrimo-article.png" alt="How to edit andrimo article" /></p>
 
-<h3> Guidelince for Publishing Article </h3>
+<h4> Guidelince for Publishing Article </h4>
 
 <li> Article Must Be Natural </li>
 <li> All Links Added in Article is No - Follow </li>
