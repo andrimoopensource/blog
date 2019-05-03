@@ -20,7 +20,7 @@ comments: false
 <li> Article is not Copied from Any Website </li>
 <li> Image Must Need </li>
 <li> Article is Well Optimised </li>
-
+<p> </p>
 
 <h2> Faqs </h2>
 
@@ -30,7 +30,7 @@ comments: false
 
 <h4> Can i edit any article in andrimo? </h4>
 
-<p> Yes, Anyone can edit any article in this website. If you want to know how to edit article in andrimo then <a href="https://www.andrimo.com/edit-andrimo-article"> checkout this guide </a> </p>
+<p> Yes, Anyone can edit any article in this website. Send Request to Andrimo Team Via Contact Form</a> </p>
   
 <h4> Can i put links in article? </h4>
 
