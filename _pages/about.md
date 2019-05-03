@@ -11,7 +11,7 @@ comments: false
 
 At this time we could not show our Team Image or the name because the work is hidden by the owner of this website. </p>
 
-<h2> Our Tools </h2>
+<h4> Our Tools </h4>
 
 <p> <a href="https://onlinephotoeditor.andrimo.com/">Online Photo Editor</a> - Online Photo Editor is a ADs Free and Free Advanced Photo Editing Tool, that helps you to edit photo without downloading any heavy application. This Needs only Browser (Chrome, Safari, Mozilla Firefox) and Internat Connection. </p>
 
@@ -19,15 +19,15 @@ At this time we could not show our Team Image or the name because the work is hi
 <h2> FAQs </h2>
 <p> </p>
 
-<h3> What is Andrimo? </h3>
+<h4> What is Andrimo? </h4>
 
 <p> Andrimo is an Android & Gadgets website. In Andrimo.com you can see all articles related to Android or Android apps, Android games, Gadgets that means this website is focused only on Android and then on gadgets. This website is especially for Tech interested readers. </p>
 
-<h3> Why we choose this website name Andrimo? </h3>
+<h4> Why we choose this website name Andrimo? </h4>
 
 <p> We choose the website name Andrimo because this website is fully focused on Android or Gadgets. </p>
 
-<h3> Do you want to Join Andrimo Team? </h3>
+<h4> Do you want to Join Andrimo Team? </h4>
 
 <p> If you want to Join the Andrimo Team. Mail your Proposal at team@andrimo.com (Remember Please don’t spam) </p>
 
