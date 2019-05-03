@@ -8,7 +8,7 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">  
 
-<p> Thanks for Being interest in Contributing article at Andrimo. Publish Article on Andrimo you have many benifits because andrimo is open source website where anyone can edit article at anytime. </p>
+<p> Thanks for Being interest in Contributing article at Andrimo. Publish Article on Andrimo you have many benifits. </p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/edit-andrimo-article.png" alt="How to edit andrimo article" /></p>
 
@@ -30,7 +30,7 @@ comments: false
 
 <h4> Can i edit any article in andrimo? </h4>
 
-<p> Yes, Anyone can edit any article in this website. Send Request to Andrimo Team Via Contact Form</a> </p>
+<p> Yes, Anyone can edit any article in this website. Send Request to Andrimo Team Via Contact Form </p>
   
 <h4> Can i put links in article? </h4>
 
