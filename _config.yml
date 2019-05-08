@@ -21,6 +21,13 @@ authors:
     web: https://www.andrimo.com
     twitter: https://twitter.com/andrimoblog
     description: "Author of Andrimo, A Offical Publisher of Andrimo. Publish Article on Weekly Basis"
+   
+
+# Collections
+collections:
+  review:
+    output:        true
+    permalink:     /:collection/:title/
     
 # Plugins
 plugins: 
