@@ -144,7 +144,13 @@ ga('send', 'pageview');
                 <a class="nav-link" href="{{ site.baseurl }}/write-for-us">Write For Us</a>
                 </li>
                 
-                {% include search-lunr.html %}
+                {% if page.url == "/search" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/search">search</a>
+                </li>
                 
             </ul>		
         
