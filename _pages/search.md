@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about
+title: Search
+permalink: /search
 comments: false
 ---  
 <div class="row justify-content-between">
