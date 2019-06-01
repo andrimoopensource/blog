@@ -3,7 +3,7 @@ name: "Andrimo"
 description: "All About Android."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /blog
+baseurl: 
 google_analytics: 'UA-135019824-1'
 disqus: 'andrimo'
 mailchimp-list: 'https://eepurl.com/gg6EE5'
