@@ -1,6 +1,6 @@
 # Site
 name: "Andrimo Blog"
-description: "All About Android."
+description: "Guides and Tutorial About Android."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
